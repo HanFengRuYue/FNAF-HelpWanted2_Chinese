@@ -1,1 +1,1 @@
-src\v11.27\2\3\UnrealPak.exe ..\..\..\newpak.pak -Create=lista.txt -compress
+src\v11.27\2\3\UnrealPak.exe ..\..\..\Thumper-WindowsNoEditor_p.pak -Create=lista.txt -compress

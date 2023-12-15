@@ -6,23 +6,23 @@ on:
       - main
 
 jobs:
-  main:
+  build:
     runs-on: windows-latest
 
     steps:
     - name: 检出代码库
       uses: actions/checkout@v2
 
-    - name: 运行 UnrealLocresImport.cmd
+    - name: CSV文件转换成Locres文件
       run: src\UnrealLocresImport.cmd
 
-    - name: 删除现有的 Game.locres
+    - name: 删除现有的Game.locres
       run: Remove-Item -Path src\Game.locres -Force
 
-    - name: 移动生成的 Game.locres
+    - name: 移动生成的Game.locres
       run: move Game.locres src\Game.locres
 
-    - name: 提交并推送更新的 Game.locres
+    - name: 提交并推送更新的Game.locres
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -30,12 +30,12 @@ jobs:
         git commit -m "更新 Game.locres"
         git push
 
-    - name: 运行 pack-v11-27.cmd
+    - name: 打包PAK
       run: |
         src\pack-v11-27.cmd
 
-    - name: 上传 newpak.pak
+    - name: 上传Thumper-WindowsNoEditor_p.pak
       uses: actions/upload-artifact@v2
       with:
-        name: newpak
-        path: src\newpak.pak
+        name: Thumper-WindowsNoEditor_p
+        path: src\Thumper-WindowsNoEditor_p.pak
