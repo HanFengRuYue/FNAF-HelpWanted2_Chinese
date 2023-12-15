@@ -1,4 +1,4 @@
-name: Combined Workflow
+name: 生成PAK
 
 on:
   push:
@@ -10,19 +10,19 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - name: Checkout repository
+    - name: 检查存储库
       uses: actions/checkout@v2
 
-    - name: Run UnrealLocresImport.cmd
+    - name: 将CSV文件合并至Locres
       run: src\UnrealLocresImport.cmd
 
-    - name: Remove existing Game.locres
+    - name: 删除原来的Game.locres
       run: Remove-Item -Path src\Game.locres -Force
 
-    - name: Move generated Game.locres
+    - name: 移动新生成的Game.locres
       run: move Game.locres src\Game.locres
 
-    - name: Commit and push updated Game.locres
+    - name: 提交并更新Game.locres
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -30,11 +30,11 @@ jobs:
         git commit -m "Update Game.locres"
         git push
 
-    - name: Run CMD script
+    - name: 将Locres打包至PAK
       run: |
         src\pack-v11-27.cmd
 
-    - name: Upload newpak.pak
+    - name: 上传PAK
       uses: actions/upload-artifact@v2
       with:
         name: newpak
