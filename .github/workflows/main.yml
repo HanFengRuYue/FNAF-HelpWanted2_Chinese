@@ -3,18 +3,21 @@ name: Import Locres and Update Game.locres
 on:
   push:
     branches:
-      - main  # 可以根据你的需要更改触发事件的分支
+      - main  # 根据你的需求更改触发事件的分支
 
 jobs:
   build:
-    runs-on: windows-latest  # 选择适合你的操作系统
+    runs-on: windows-latest  # 根据你的操作系统选择
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2  # 检查代码仓库
+      uses: actions/checkout@v2  # 检出代码仓库
 
     - name: Run UnrealLocresImport.cmd
       run: src\UnrealLocresImport.cmd  # 运行你的 CMD 脚本
+
+    - name: Remove existing Game.locres
+      run: rm -f src\Game.locres  # 删除现有的 Game.locres 文件
 
     - name: Move generated Game.locres
       run: mv Game.locres src\Game.locres  # 将生成的 Game.locres 移动到指定位置
