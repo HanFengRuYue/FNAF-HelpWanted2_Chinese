@@ -1,1 +1,1 @@
-src\UnrealLocres.exe import src\GameEN.locres src\Game.csv -o src\Game.locres
+src\UnrealLocres.exe import src\GameEN.locres src\Game.csv -o Game.locres
