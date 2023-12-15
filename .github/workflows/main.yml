@@ -1,26 +1,26 @@
-name: Import Locres and Update Game.locres
+name: Combined Workflow
 
 on:
   push:
     branches:
-      - main  # 根据你的需求更改触发事件的分支
+      - main
 
 jobs:
-  build:
-    runs-on: windows-latest  # 选择 Windows 操作系统
+  update_and_run_script:
+    runs-on: windows-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2  # 检出代码仓库
+      uses: actions/checkout@v2
 
     - name: Run UnrealLocresImport.cmd
-      run: src\UnrealLocresImport.cmd  # 运行你的 CMD 脚本
+      run: src\UnrealLocresImport.cmd
 
     - name: Remove existing Game.locres
-      run: Remove-Item -Path src\Game.locres -Force  # 删除现有的 Game.locres 文件
+      run: Remove-Item -Path src\Game.locres -Force
 
     - name: Move generated Game.locres
-      run: move Game.locres src\Game.locres  # 将生成的 Game.locres 移动到指定位置
+      run: move Game.locres src\Game.locres
 
     - name: Commit and push updated Game.locres
       run: |
@@ -29,3 +29,13 @@ jobs:
         git add src\Game.locres
         git commit -m "Update Game.locres"
         git push
+
+    - name: Run CMD script
+      run: |
+        src\pack-v11-27.cmd
+
+    - name: Upload newpak.pak
+      uses: actions/upload-artifact@v2
+      with:
+        name: newpak
+        path: src\newpak.pak
