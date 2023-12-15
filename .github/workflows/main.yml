@@ -17,16 +17,16 @@ jobs:
       run: src\UnrealLocresImport.cmd
 
     - name: 删除现有的Game.locres
-      run: Remove-Item -Path src\v11.27\2\3\Thumper\Content\Localization\Game\en\Game.locres -Force
+      run: Remove-Item -Path src\Thumper\Content\Localization\Game\en\Game.locres -Force
 
     - name: 移动生成的Game.locres
-      run: move Game.locres src\v11.27\2\3\Thumper\Content\Localization\Game\en\Game.locres
+      run: move Game.locres src\Thumper\Content\Localization\Game\en\Game.locres
 
     - name: 提交并推送更新的Game.locres
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add src\v11.27\2\3\Thumper\Content\Localization\Game\en\Game.locres
+        git add src\Thumper\Content\Localization\Game\en\Game.locres
         git commit -m "更新 Game.locres"
         git push
 
