@@ -1,31 +1,16 @@
-# 这是一个工作流程的名称
-name: Run CMD script and upload Pak file
-
-# 这是一个触发工作流程的事件，这里表示每当有新的推送或拉取请求时，就运行工作流程
-on: [push, pull_request]
-
-# 这是一个工作流程中的一个作业，可以有多个作业，每个作业都有一个唯一的标识符
+name: Run CMD script
+on: [push]
 jobs:
-  # 这是一个作业的标识符
-  run-script:
-    # 这是一个作业的运行器，可以是 GitHub 托管的运行器，也可以是自承载的运行器，这里使用的是 GitHub 托管的 Windows 运行器
+  build:
     runs-on: windows-latest
-    # 这是一个作业中的一个步骤，可以有多个步骤，每个步骤都有一个名称和一个运行的命令或操作
     steps:
-      # 这是一个步骤的名称，用于在日志中显示
-      - name: Checkout repository
-        # 这是一个步骤运行的操作，这里使用的是 GitHub 官方提供的一个操作，用于检出仓库的代码
-        uses: actions/checkout@v2
-      # 这是另一个步骤的名称
+      - uses: actions/checkout@v2
       - name: Run CMD script
-        # 这是一个步骤运行的命令，这里使用的是 PowerShell 命令，用于运行你的 cmd 脚本，你需要将脚本的路径和文件名替换为你自己的
-        run: powershell -Command "& 'src\pack-v11-27.cmd'"
-      # 这是最后一个步骤的名称
-      - name: Upload Pak file
-        # 这是一个步骤运行的操作，这里使用的是 GitHub 官方提供的一个操作，用于将 Pak 文件作为构件上传，你需要将文件的路径和名称替换为你自己的
+        run: |
+          scr\v11.27\2\3\UnrealPak.exe scr\..\..\..\newpak.pak -Create=scr\..\..\..\lista.txt -compress
+          pause
+      - name: Upload newpak.pak
         uses: actions/upload-artifact@v2
         with:
-          # 这是构件的名称，可以自定义
           name: newpak
-          # 这是构件的路径，可以是相对路径或绝对路径，可以使用通配符
-          path: frontend/src/newpak.pak
+          path: newpak.pak
