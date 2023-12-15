@@ -10,7 +10,7 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - name: 检出代码库
+    - name: 检查代码库
       uses: actions/checkout@v2
 
     - name: CSV文件转换成Locres文件
@@ -37,5 +37,5 @@ jobs:
     - name: 上传Thumper-WindowsNoEditor_p.pak
       uses: actions/upload-artifact@v2
       with:
-        name: Thumper-WindowsNoEditor_p
+        name: 中文补丁
         path: src\Thumper-WindowsNoEditor_p.pak
