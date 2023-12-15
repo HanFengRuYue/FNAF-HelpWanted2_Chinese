@@ -1,53 +1,26 @@
-# 这是一个GitHub Actions的工作流脚本
-name: Run CMD script and commit Game.locres
-
-# 触发条件，当有push事件发生时
+# 这个工作流脚本会在每次有push事件发生时触发
 on: push
 
-# 定义一个名为run-script的job
 jobs:
-  run-script:
-    # 运行环境，使用windows-latest
+  # 这个job的名称是run-cmd-script
+  run-cmd-script:
+    # 这个job运行在Windows环境下
     runs-on: windows-latest
-    # 定义一个名为run-cmd的步骤
     steps:
-      # 使用actions/checkout@v2来检出仓库代码
+      # 这个步骤是检出仓库的代码
       - name: Checkout repository
         uses: actions/checkout@v2
-      # 使用run命令来执行你的CMD脚本
+      # 这个步骤是运行scr\UnrealLocresImport.cmd的CMD脚本
       - name: Run CMD script
-        run: src\UnrealLocres.exe import src\GameEN.locres src\Game.csv -o Game.locres
-      # 使用actions/github-script@v5来创建一个JavaScript脚本，用于提交生成的Game.locres文件
-      - name: Commit Game.locres
-        uses: actions/github-script@v5
-        with:
-          # 定义一个名为script的输入，包含一个JavaScript函数的主体
-          script: |
-            // 获取octokit客户端
-            const { octokit } = github;
-            // 获取仓库的所有者和名称
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
-            // 获取当前分支的名称
-            const branch = context.ref.replace('refs/heads/', '');
-            // 获取当前分支的最新提交的SHA值
-            const sha = context.sha;
-            // 读取生成的Game.locres文件的内容，使用base64编码
-            const content = fs.readFileSync('Game.locres', { encoding: 'base64' });
-            // 定义一个提交的消息
-            const message = 'Update Game.locres';
-            // 使用octokit的rest API来创建或更新一个文件
-            await octokit.rest.repos.createOrUpdateFileContents({
-              owner,
-              repo,
-              // 文件的路径
-              path: 'src/Game.locres',
-              // 文件的内容，使用base64编码
-              content,
-              // 提交的消息
-              message,
-              // 当前分支的最新提交的SHA值
-              sha,
-              // 提交的分支
-              branch
-            });
+        run: scr\UnrealLocresImport.cmd
+      # 这个步骤是把生成的Game.locres覆盖到scr\Game.locres的文件
+      - name: Overwrite Game.locres
+        run: copy /y Game.locres scr\Game.locres
+      # 这个步骤是把修改后的scr\Game.locres文件提交到仓库
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add scr\Game.locres
+          git commit -m "Update Game.locres"
+          git push
