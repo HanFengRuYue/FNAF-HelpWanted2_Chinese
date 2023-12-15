@@ -1,0 +1,15 @@
+name: Run CMD script
+on: [push]
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run CMD script
+        run: |
+          src\pack-v11-27.cmd
+      - name: Upload newpak.pak
+        uses: actions/upload-artifact@v2
+        with:
+          name: newpak
+          path: src\newpak.pak
