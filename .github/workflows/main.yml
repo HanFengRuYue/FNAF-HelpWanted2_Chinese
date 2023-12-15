@@ -1,13 +1,13 @@
-name: Run CMD script
-on: [push]
+name: Run CMD script with args
+on: workflow_dispatch
 jobs:
   build:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
       - name: Run CMD script
-        run: |
-          src\pack-v11-27.cmd
+        run: src\pack-v11-27.cmd
+        args: src\lista.txt
       - name: Upload newpak.pak
         uses: actions/upload-artifact@v2
         with:
