@@ -3,7 +3,7 @@ name: Import Locres and Update Game.locres
 on:
   push:
     branches:
-      - main
+      - main  # 根据你的需求更改触发事件的分支
 
 jobs:
   build:
