@@ -1,22 +1,28 @@
-name: Unreal Locres Import
+name: Import Locres and Update Game.locres
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main  # 可以根据你的需要更改触发事件的分支
 
 jobs:
-  import:
-    runs-on: windows-latest
+  build:
+    runs-on: ubuntu-latest  # 选择适合你的操作系统
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Run UnrealLocresImport.cmd
-        run: scr\UnrealLocresImport.cmd
-      - name: Copy Game.locres to scr folder
-        run: copy Game.locres scr\Game.locres /y
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          author_name: ${{ github.actor }}
-          author_email: ${{ github.actor }}@users.noreply.github.com
-          message: "Update Game.locres"
-          add: "scr\Game.locres"
+    - name: Checkout repository
+      uses: actions/checkout@v2  # 检查代码仓库
+
+    - name: Run UnrealLocresImport.cmd
+      run: src\UnrealLocresImport.cmd  # 运行你的 CMD 脚本
+
+    - name: Move generated Game.locres
+      run: mv Game.locres src\Game.locres  # 将生成的 Game.locres 移动到指定位置
+
+    - name: Commit and push updated Game.locres
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add src\Game.locres
+        git commit -m "Update Game.locres"
+        git push
