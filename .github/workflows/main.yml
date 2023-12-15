@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
       # 使用run命令来执行你的CMD脚本
       - name: Run CMD script
-        run: src\UnrealLocres.exe import GameEN.locres Game.csv -o Game.locres
+        run: src\UnrealLocres.exe import src\GameEN.locres src\Game.csv -o src\Game.locres
       # 使用actions/github-script@v5来创建一个JavaScript脚本，用于提交生成的Game.locres文件
       - name: Commit Game.locres
         uses: actions/github-script@v5
