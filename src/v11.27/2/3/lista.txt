@@ -1,1 +1,1 @@
-"Thumper/Content/Localization/Game/en/Game.locres"
+../../../Thumper/Content/Localization/Game/en/Game.locres
