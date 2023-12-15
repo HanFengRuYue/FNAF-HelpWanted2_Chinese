@@ -1,26 +1,22 @@
-# 这个工作流脚本会在每次有push事件发生时触发
-on: push
+name: Unreal Locres Import
+
+on:
+  push:
+    branches: [ main ]
 
 jobs:
-  # 这个job的名称是run-cmd-script
-  run-cmd-script:
-    # 这个job运行在Windows环境下
+  import:
     runs-on: windows-latest
     steps:
-      # 这个步骤是检出仓库的代码
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      # 这个步骤是运行scr\UnrealLocresImport.cmd的CMD脚本
-      - name: Run CMD script
-        run: src\UnrealLocresImport.cmd
-      # 这个步骤是把生成的Game.locres覆盖到scr\Game.locres的文件
-      - name: Overwrite Game.locres
-        run: copy /y Game.locres src\Game.locres
-      # 这个步骤是把修改后的scr\Game.locres文件提交到仓库
+      - uses: actions/checkout@v2
+      - name: Run UnrealLocresImport.cmd
+        run: scr\UnrealLocresImport.cmd
+      - name: Copy Game.locres to scr folder
+        run: copy Game.locres scr\Game.locres /y
       - name: Commit changes
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add src\Game.locres
-          git commit -m "Update Game.locres"
-          git push
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: ${{ github.actor }}
+          author_email: ${{ github.actor }}@users.noreply.github.com
+          message: "Update Game.locres"
+          add: "scr\Game.locres"
