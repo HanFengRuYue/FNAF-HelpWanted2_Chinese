@@ -1,1 +1,12 @@
 ../../../Thumper/Content/Localization/Game/en/Game.locres
+../../../Thumper/Content/UI/Font/Coaster/coasbl__.ufont
+../../../Thumper/Content/UI/Font/Coaster/coastershadow.ufont
+../../../Thumper/Content/UI/Font/Five_Nights_at_Freddy_s.ufont
+../../../Thumper/Content/UI/Font/Univia/IBMPlexSansKR-Regular.ufont
+../../../Thumper/Content/UI/Font/Univia/Mostardesign_-_UniviaProRegular.ufont
+../../../Thumper/Content/UI/Font/NotoSans-Regular.ufont
+../../../Thumper/Content/UI/Font/NotoSansArabic-Regular.ufont
+../../../Thumper/Content/UI/Font/Univia/NotoSansHK-Regular.ufont
+../../../Thumper/Content/UI/Font/Univia/NotoSansSC-Regular.ufont
+../../../Thumper/Content/UI/Font/PermanentMarker-Regular.ufont
+../../../Thumper/Content/UI/Font/Atarian/SF_Atarian_System.ufont
