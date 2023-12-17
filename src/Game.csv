@@ -1171,513 +1171,512 @@ give him a new one.","帮帮的眼睛被毁了！
 拿掉坏掉的眼睛，给他一个新的。"
 Loc_Thumper/Thumper_FirstAid_DirtyHands,"Helpy's hands are dirty!
 Clean them with
-the steel wool!","帮帮的眼睛被毁了！
-拿掉坏掉的眼睛，给他一个新的。"
+the steel wool!","帮帮的手很脏！
+用钢丝绒把它们擦干净！"
 Loc_Thumper/Thumper_FirstAid_LegMangled,"Helpy's leg has been mangled
 by an another animatronic!
-Amputate and replace it.","帮帮的手很脏！
-用钢丝绒把它们擦干净！"
+Amputate and replace it.","帮帮的腿被另一个机器人咬坏了！
+截肢并换上新的。"
 Loc_Thumper/Thumper_FirstAid_ReflexCheck,"Helpy's reflexes aren't working 
 right. Hit his right knee with a 
-hammer to check them!","帮帮的腿被另一个机器人咬坏了！
-截肢并换上新的。"
-Loc_Thumper/Thumper_Projector_FFHappy1,"Hey, hi!","帮帮的反射神经不太正常。
+hammer to check them!","帮帮的反射神经不太正常。
 用锤子敲他的右膝盖，检查一下！"
-Loc_Thumper/Thumper_Projector_Teleport1,"Hey, hi! Check out the Pizza Place.",嘿，你好！
-Loc_Thumper/Thumper_Projector_Greeting1,"Hey, hi! New employee!",嘿，你好！快去看看披萨店吧。
-Loc_Thumper/Thumper_Achievement_Desc_35,Hit 20 ball targets.,嘿，你好！新员工！
-Loc_Thumper/Thumper_Achievement_Desc_36,Hit Moon in the face with the pumpkin.,打中 20 个球形目标。
-Loc_Thumper/Thumper_LI_Fazerblast_N5C2,Hit Springtrap with Balls to weaken his armor.,用南瓜砸月亮的脸。
-Loc_Thumper/Thumper_LI_Fazerblast_N1C2,Hit your targets and don’t let your score fall too far!,用球打春节陷阱，削弱他的装甲。
-Loc_Thumper/Thumper_DHSWarning_HoldController,Hold your controller securely.,打中你的目标，不要让你的分数下降太多！
-Loc_Thumper/Thumper_Activity_Desc_5,Hone your technical chops behind the scenes. ,牢牢握住你的控制器。
-Loc_Thumper/Thumper_FoodPrep_HotSauce,Hot Sauce,在幕后磨练你的技术能力。
-Loc_Thumper/Thumper_FoodPrep_Hotdog,Hotdog,辣酱
-Loc_Thumper/Thumper_Projector_FFCollected2,I am so excited!,热狗
-Loc_Thumper/Thumper_Projector_FFUpset3,I promise it’s worth it!,我好兴奋！
-Loc_Thumper/Thumper_PQ4_Key,I wonder where this goes,我保证这是值得的！
-Loc_Thumper/Thumper_Language_Italian,ITALIAN,我想知道这是通往哪里的
-Loc_Thumper/Thumper_Achievement_Name_10,IT’S NOT EASY,意大利语
-Loc_Thumper/Thumper_Prizes_IceCreamPoster,Ice Cream Poster,这不容易
-Loc_Thumper/Thumper_LI_BonkABon_N2C3,"If the machine malfunctions, quickly repair it by inserting the wires in the correct sequence.",冰淇淋海报
-Loc_Thumper/Thumper_LI_EndoWarehouse_N1C2,"If you need a hint, press the hint button.",如果机器出现故障，快速修理它，按正确的顺序插入电线。
-Loc_Thumper/Thumper_LI_BonkABon_N2C2,Ignore the eyes. They’ll distract you from a high score.,如果你需要提示，按提示按钮。
-Loc_Thumper/Thumper_Achievement_Desc_22,"In Food Prep, make a “graveyard”.",忽略眼睛。它们会分散你的注意力，影响你的高分。
-Loc_Thumper/Thumper_Achievement_Desc_21,"In Funtime Gang, don’t let Chica get Mr. Cupcake.",在食物准备中，做一个“墓地”。
-Loc_Thumper/Thumper_FizzyFazz_Inactive,Inactive,在欢乐马戏团中，不要让奇卡拿到杯子蛋糕。
-Loc_Thumper/Thumper_FizzyFazz_Ingredient#1,Ingredient #1:,不活跃
-Loc_Thumper/Thumper_FizzyFazz_Ingredient#2,Ingredient #2:,配料 #1：
-Loc_Thumper/Thumper_FizzyFazz_Ingredient#3,Ingredient #3:,配料 #2：
-Loc_Thumper/Thumper_FizzyFazz_Ingredient#4,Ingredient #4:,配料 #3：
-Loc_Thumper/Thumper_FizzyFazz_Ingredient#5,Ingredient #5:,配料 #4：
-Loc_Thumper/Thumper_FizzyFaz_IngredientName,Ingredient Name,配料 #5：
-Loc_Thumper/Thumper_FirstAid_Injury1,Injury 1,配料名称
-Loc_Thumper/Thumper_FirstAid_Injury2,Injury 2,伤口 1
-Loc_Thumper/Thumper_FirstAid_Injury3,Injury 3,伤口 2
+Loc_Thumper/Thumper_Projector_FFHappy1,"Hey, hi!",嘿，你好！
+Loc_Thumper/Thumper_Projector_Teleport1,"Hey, hi! Check out the Pizza Place.",嘿，你好！快去看看披萨店吧。
+Loc_Thumper/Thumper_Projector_Greeting1,"Hey, hi! New employee!",嘿，你好！新员工！
+Loc_Thumper/Thumper_Achievement_Desc_35,Hit 20 ball targets.,打中 20 个球形目标。
+Loc_Thumper/Thumper_Achievement_Desc_36,Hit Moon in the face with the pumpkin.,用南瓜砸月亮的脸。
+Loc_Thumper/Thumper_LI_Fazerblast_N5C2,Hit Springtrap with Balls to weaken his armor.,用球打春节陷阱，削弱他的装甲。
+Loc_Thumper/Thumper_LI_Fazerblast_N1C2,Hit your targets and don’t let your score fall too far!,打中你的目标，不要让你的分数下降太多！
+Loc_Thumper/Thumper_DHSWarning_HoldController,Hold your controller securely.,牢牢握住你的控制器。
+Loc_Thumper/Thumper_Activity_Desc_5,Hone your technical chops behind the scenes. ,在幕后磨练你的技术能力。
+Loc_Thumper/Thumper_FoodPrep_HotSauce,Hot Sauce,辣酱
+Loc_Thumper/Thumper_FoodPrep_Hotdog,Hotdog,热狗
+Loc_Thumper/Thumper_Projector_FFCollected2,I am so excited!,我好兴奋！
+Loc_Thumper/Thumper_Projector_FFUpset3,I promise it’s worth it!,我保证这是值得的！
+Loc_Thumper/Thumper_PQ4_Key,I wonder where this goes,我想知道这是通往哪里的
+Loc_Thumper/Thumper_Language_Italian,ITALIAN,意大利语
+Loc_Thumper/Thumper_Achievement_Name_10,IT’S NOT EASY,这不容易
+Loc_Thumper/Thumper_Prizes_IceCreamPoster,Ice Cream Poster,冰淇淋海报
+Loc_Thumper/Thumper_LI_BonkABon_N2C3,"If the machine malfunctions, quickly repair it by inserting the wires in the correct sequence.",如果机器出现故障，快速修理它，按正确的顺序插入电线。
+Loc_Thumper/Thumper_LI_EndoWarehouse_N1C2,"If you need a hint, press the hint button.",如果你需要提示，按提示按钮。
+Loc_Thumper/Thumper_LI_BonkABon_N2C2,Ignore the eyes. They’ll distract you from a high score.,忽略眼睛。它们会分散你的注意力，影响你的高分。
+Loc_Thumper/Thumper_Achievement_Desc_22,"In Food Prep, make a “graveyard”.",在食物准备中，做一个“墓地”。
+Loc_Thumper/Thumper_Achievement_Desc_21,"In Funtime Gang, don’t let Chica get Mr. Cupcake.",在欢乐马戏团中，不要让奇卡拿到杯子蛋糕。
+Loc_Thumper/Thumper_FizzyFazz_Inactive,Inactive,不活跃
+Loc_Thumper/Thumper_FizzyFazz_Ingredient#1,Ingredient #1:,配料 #1：
+Loc_Thumper/Thumper_FizzyFazz_Ingredient#2,Ingredient #2:,配料 #2：
+Loc_Thumper/Thumper_FizzyFazz_Ingredient#3,Ingredient #3:,配料 #3：
+Loc_Thumper/Thumper_FizzyFazz_Ingredient#4,Ingredient #4:,配料 #4：
+Loc_Thumper/Thumper_FizzyFazz_Ingredient#5,Ingredient #5:,配料 #5：
+Loc_Thumper/Thumper_FizzyFaz_IngredientName,Ingredient Name,配料名称
+Loc_Thumper/Thumper_FirstAid_Injury1,Injury 1,伤口 1
+Loc_Thumper/Thumper_FirstAid_Injury2,Injury 2,伤口 2
+Loc_Thumper/Thumper_FirstAid_Injury3,Injury 3,伤口 3
 Loc_Thumper/Thumper_DHSWarning_BeCareful,"It can get crazy when you're having fun at the Pizza Place.
 Be careful, and make sure the area around you is clear.
-Remember not to move around if you have to lean over or bend down.",伤口 3
-Loc_Thumper/Thumper_PQ4_OMC3,It is a fair trade,"在披萨店玩得开心时，可能会有点疯狂。
+Remember not to move around if you have to lean over or bend down.","在披萨店玩得开心时，可能会有点疯狂。
 小心点，确保你周围的区域是清楚的。
 记住，如果你必须弯腰或俯身，不要乱动。"
-Loc_Thumper/Thumper_Activity_Desc_4,It seems as though you have accidentally wandered into a restricted area.,这是一个公平的交易
-Loc_Thumper/Thumper_Projector_Teleport3,It tells you how to move.,你似乎不小心闯入了一个禁区。
-Loc_Thumper/Thumper_GameMenus_JumpscareVolume,JUMPSCARE VOLUME,它告诉你如何移动。
-Loc_Thumper/Thumper_Prizes_Jack-O-MoonMan,Jack-O-Moon,跳杀音量
-Loc_Thumper/Thumper_LevelDesc_ElChips,Join the Glam Rock concessions team and become a food prep star!,南瓜月亮
-Loc_Thumper/Thumper_FirstAid_ScrapedKneeVitals,KNEE: SCRAPED,加入 Glam Rock 的小吃团队，成为一个食物准备明星！
-Loc_Thumper/Thumper_LI_ArtsAndCrafts_N2C3,"Keep an eye on the generator. If the lights go out, fix the generator as soon as you can!",膝盖：擦伤
-Loc_Thumper/Thumper_LI_SisterLocation_N3C1,"Keep track of Funtime Freddy. He’s got important things to say, and will send Bon-Bon to keep you “company”.",注意发电机。如果灯灭了，尽快修好发电机！
-Loc_Thumper/Thumper_FoodPrep_Ketchup,Ketchup,跟踪欢乐弗雷迪。他有重要的事情要说，而且会派 Bon-Bon 来陪你。
-Loc_Thumper/Thumper_EW_CardScreen_Kick,Kick,番茄酱
-Loc_Thumper/Thumper_FoodPrep_Large,L,踢
-Loc_Thumper/Thumper_Options_Language,LANGUAGE,L
-Loc_Thumper/Thumper_GameMenus_Large,LARGE,语言
-Loc_Thumper/Thumper_GameMenus_Left,LEFT,大
-Loc_Thumper/Thumper_FirstAid_LeftArmBroken,LEFT ARM: BROKEN,左
-Loc_Thumper/Thumper_FirstAid_LeftArmSet,LEFT ARM: SET,左臂：断裂
-Loc_Thumper/Thumper_FirstAid_LeftEyeCleaned,LEFT EYE CLEANED,左臂：固定
-Loc_Thumper/Thumper_FirstAid_LegDestroyed,LEG: DESTROYED,左眼清洁
-Loc_Thumper/Thumper_FirstAid_LegRemoved,LEG: REMOVED,腿：毁坏
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_LEMONADE,LEMONADE,腿：移除
-Loc_Thumper/Thumper_Achievement_Name_7,LIABILITY RISK,柠檬水
-Loc_Thumper/Thumper_Achievement_Name_28,LIGHT’S OUT,责任风险
-Loc_Thumper/Thumper_Achievement_Name_37,LOST LUGGAGE,灯光：关闭
-Loc_Thumper/Thumper_GameMenus_Low,LOW,遗失行李
-Loc_Thumper/Thumper_FirstAid_LowBrainActivity,LOW BRAIN ACTIVITY,低
-Loc_Thumper/Thumper_FirstAid_LungDeflated,LUNG: DEFLATED,低脑活动
-Loc_Thumper/Thumper_FirstAid_LungRemoved,LUNG: REMOVED,肺：塌陷
-Loc_Thumper/Thumper_FirstAid_LungReplaced,LUNG: REPLACED,肺：移除
-Loc_Thumper/Thumper_FoodPrep_LadleReturn,Ladle Return,肺：替换
-Loc_Thumper/Thumper_LevelDesc_FirstAidNight1,Learn common medical procedures from the safety of a simulated Pizza Place training booth.,勺子回收
-Loc_Thumper/Thumper_LevelDesc_DJMusicTimeRuin,Learn pro techniques with DJ Music Man in this final session.,在模拟的披萨店训练间里，学习常见的医疗程序。
-Loc_Thumper/Thumper_Activity_Desc_3,Learn the culinary art of concessions!,在最后一节课中，跟DJ音乐人学习专业的技巧。
-Loc_Thumper/Thumper_Prizes_LeftyActionFigure,Lefty,学习小吃的烹饪艺术！
-Loc_Thumper/Thumper_FoodPrep_LemonChicaBar,Lemon Chica Bar,Lefty
-Loc_Thumper/Thumper_Prizes_LemonadeClown,Lemonade Clown,柠檬奇卡棒
-Loc_Thumper/Thumper_Title_LevelList,Level List,柠檬水小丑
-Loc_Thumper/Thumper_LI_DJMusicTime_N1C1,"Listen to DJ Music Man, then adjust the DJ Music Board to match his beats EXACTLY!",关卡列表
-Loc_Thumper/Thumper_FoodPrep_Lobster,Lobster,听DJ音乐人的指示，然后调整 DJ 音乐板，让它完全匹配他的节奏！
-Loc_Thumper/Thumper_Prizes_FoxyLogRidePoster,Log Ride Poster,龙虾
-Loc_Thumper/Thumper_Prizes_LogRideBlaster,Log Ride Shooter,原木滑梯海报
-Loc_Thumper/Thumper_FoodPrep_Lollipop,Lollipop,原木滑梯射击
-Loc_Thumper/Thumper_LI_FirstAid_N1C2,Look at the Diagnostic Monitor to see what’s wrong with Helpy. Look at the Television to see how to fix it.,棒棒糖
-Loc_Thumper/Thumper_LevelDesc_FizzyFazNight1,Lucky you! A position recently opened at the Fizzy Faz bottling warehouse.,看诊断监视器，看看帮帮出了什么问题。看电视，看看怎么修理它。
-Loc_Thumper/Thumper_Prizes_Lunchbox1,Lunchbox 1,真幸运！Fizzy Faz 瓶装仓库最近有一个空缺。
-Loc_Thumper/Thumper_Prizes_Lunchbox2,Lunchbox 2,午餐盒 1
-Loc_Thumper/Thumper_Prizes_Lunchbox3,Lunchbox 3,午餐盒 2
-Loc_Thumper/Thumper_FoodPrep_Medium,M,午餐盒 3
-Loc_Thumper/Thumper_GameMenus_MasterVolume,MASTER VOLUME,M
-Loc_Thumper/Thumper_GameMenus_Medium,MEDIUM,主音量
-Loc_Thumper/Thumper_FizzyFazz_MISSINGINGREDIENTS,MISSING INGREDIENTS,中
-Loc_Thumper/Thumper_Achievement_Name_16,MONTY UNDERSTUDY,缺少配料
-Loc_Thumper/Thumper_GameMenus_MusicVolume,MUSIC VOLUME,蒙蒂替补
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_MYSTERY,MYSTERY,音乐音量
-Loc_Thumper/Thumper_FoodPrep_MainDish,Main Dish,神秘
-Loc_Thumper/Thumper_LevelDesc_BonkaBonNight2,Maintenance needed. Play at your own risk.,主菜
-Loc_Thumper/Thumper_Achievement_Desc_15,Make Roxy presentable.,需要维修。自行承担风险。
-Loc_Thumper/Thumper_Achievement_Desc_16,Make a Monty costume.,让罗克西看起来体面。
-Loc_Thumper/Thumper_LI_SisterLocation_N1C3,Make sure you don’t run out of power before your shift is over.,做一个蒙蒂的服装。
-Loc_Thumper/Thumper_LI_FizzyFaz_N1C1,Make the correct order and send it up the delivery unit.,确保你在轮班结束前不会耗尽电力。
-Loc_Thumper/Thumper_Prizes_GlitchedMallet,Mallet,做出正确的订单，然后通过送货单元送上去。
-Loc_Thumper/Thumper_Prizes_MartysPlungersAd,Marty's Plungers Ad,锤子
-Loc_Thumper/Thumper_FoodPrep_EggTimerMax,Max,Marty 的吸盘广告
-Loc_Thumper/Thumper_FoodPrep_Meat,Meat,Max
-Loc_Thumper/Thumper_FoodPrep_MeatBites,Meat Bites,肉
-Loc_Thumper/Thumper_FoodPrep_MeatPretzel,Meat Pretzel,肉块
+Loc_Thumper/Thumper_PQ4_OMC3,It is a fair trade,这是一个公平的交易
+Loc_Thumper/Thumper_Activity_Desc_4,It seems as though you have accidentally wandered into a restricted area.,你似乎不小心闯入了一个禁区。
+Loc_Thumper/Thumper_Projector_Teleport3,It tells you how to move.,它告诉你如何移动。
+Loc_Thumper/Thumper_GameMenus_JumpscareVolume,JUMPSCARE VOLUME,跳杀音量
+Loc_Thumper/Thumper_Prizes_Jack-O-MoonMan,Jack-O-Moon,南瓜月亮
+Loc_Thumper/Thumper_LevelDesc_ElChips,Join the Glam Rock concessions team and become a food prep star!,加入 Glam Rock 的小吃团队，成为一个食物准备明星！
+Loc_Thumper/Thumper_FirstAid_ScrapedKneeVitals,KNEE: SCRAPED,膝盖：擦伤
+Loc_Thumper/Thumper_LI_ArtsAndCrafts_N2C3,"Keep an eye on the generator. If the lights go out, fix the generator as soon as you can!",注意发电机。如果灯灭了，尽快修好发电机！
+Loc_Thumper/Thumper_LI_SisterLocation_N3C1,"Keep track of Funtime Freddy. He’s got important things to say, and will send Bon-Bon to keep you “company”.",跟踪欢乐弗雷迪。他有重要的事情要说，而且会派 Bon-Bon 来陪你。
+Loc_Thumper/Thumper_FoodPrep_Ketchup,Ketchup,番茄酱
+Loc_Thumper/Thumper_EW_CardScreen_Kick,Kick,踢
+Loc_Thumper/Thumper_FoodPrep_Large,L,L
+Loc_Thumper/Thumper_Options_Language,LANGUAGE,语言
+Loc_Thumper/Thumper_GameMenus_Large,LARGE,大
+Loc_Thumper/Thumper_GameMenus_Left,LEFT,左
+Loc_Thumper/Thumper_FirstAid_LeftArmBroken,LEFT ARM: BROKEN,左臂：断裂
+Loc_Thumper/Thumper_FirstAid_LeftArmSet,LEFT ARM: SET,左臂：固定
+Loc_Thumper/Thumper_FirstAid_LeftEyeCleaned,LEFT EYE CLEANED,左眼清洁
+Loc_Thumper/Thumper_FirstAid_LegDestroyed,LEG: DESTROYED,腿：毁坏
+Loc_Thumper/Thumper_FirstAid_LegRemoved,LEG: REMOVED,腿：移除
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_LEMONADE,LEMONADE,柠檬水
+Loc_Thumper/Thumper_Achievement_Name_7,LIABILITY RISK,责任风险
+Loc_Thumper/Thumper_Achievement_Name_28,LIGHT’S OUT,灯光：关闭
+Loc_Thumper/Thumper_Achievement_Name_37,LOST LUGGAGE,遗失行李
+Loc_Thumper/Thumper_GameMenus_Low,LOW,低
+Loc_Thumper/Thumper_FirstAid_LowBrainActivity,LOW BRAIN ACTIVITY,低脑活动
+Loc_Thumper/Thumper_FirstAid_LungDeflated,LUNG: DEFLATED,肺：塌陷
+Loc_Thumper/Thumper_FirstAid_LungRemoved,LUNG: REMOVED,肺：移除
+Loc_Thumper/Thumper_FirstAid_LungReplaced,LUNG: REPLACED,肺：替换
+Loc_Thumper/Thumper_FoodPrep_LadleReturn,Ladle Return,勺子回收
+Loc_Thumper/Thumper_LevelDesc_FirstAidNight1,Learn common medical procedures from the safety of a simulated Pizza Place training booth.,在模拟的披萨店训练间里，学习常见的医疗程序。
+Loc_Thumper/Thumper_LevelDesc_DJMusicTimeRuin,Learn pro techniques with DJ Music Man in this final session.,在最后一节课中，跟DJ音乐人学习专业的技巧。
+Loc_Thumper/Thumper_Activity_Desc_3,Learn the culinary art of concessions!,学习小吃的烹饪艺术！
+Loc_Thumper/Thumper_Prizes_LeftyActionFigure,Lefty,Lefty
+Loc_Thumper/Thumper_FoodPrep_LemonChicaBar,Lemon Chica Bar,柠檬奇卡棒
+Loc_Thumper/Thumper_Prizes_LemonadeClown,Lemonade Clown,柠檬水小丑
+Loc_Thumper/Thumper_Title_LevelList,Level List,关卡列表
+Loc_Thumper/Thumper_LI_DJMusicTime_N1C1,"Listen to DJ Music Man, then adjust the DJ Music Board to match his beats EXACTLY!",听DJ音乐人的指示，然后调整 DJ 音乐板，让它完全匹配他的节奏！
+Loc_Thumper/Thumper_FoodPrep_Lobster,Lobster,龙虾
+Loc_Thumper/Thumper_Prizes_FoxyLogRidePoster,Log Ride Poster,原木滑梯海报
+Loc_Thumper/Thumper_Prizes_LogRideBlaster,Log Ride Shooter,原木滑梯射击
+Loc_Thumper/Thumper_FoodPrep_Lollipop,Lollipop,棒棒糖
+Loc_Thumper/Thumper_LI_FirstAid_N1C2,Look at the Diagnostic Monitor to see what’s wrong with Helpy. Look at the Television to see how to fix it.,看诊断监视器，看看帮帮出了什么问题。看电视，看看怎么修理它。
+Loc_Thumper/Thumper_LevelDesc_FizzyFazNight1,Lucky you! A position recently opened at the Fizzy Faz bottling warehouse.,真幸运！Fizzy Faz 瓶装仓库最近有一个空缺。
+Loc_Thumper/Thumper_Prizes_Lunchbox1,Lunchbox 1,午餐盒 1
+Loc_Thumper/Thumper_Prizes_Lunchbox2,Lunchbox 2,午餐盒 2
+Loc_Thumper/Thumper_Prizes_Lunchbox3,Lunchbox 3,午餐盒 3
+Loc_Thumper/Thumper_FoodPrep_Medium,M,M
+Loc_Thumper/Thumper_GameMenus_MasterVolume,MASTER VOLUME,主音量
+Loc_Thumper/Thumper_GameMenus_Medium,MEDIUM,中
+Loc_Thumper/Thumper_FizzyFazz_MISSINGINGREDIENTS,MISSING INGREDIENTS,缺少配料
+Loc_Thumper/Thumper_Achievement_Name_16,MONTY UNDERSTUDY,蒙蒂替补
+Loc_Thumper/Thumper_GameMenus_MusicVolume,MUSIC VOLUME,音乐音量
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_MYSTERY,MYSTERY,神秘
+Loc_Thumper/Thumper_FoodPrep_MainDish,Main Dish,主菜
+Loc_Thumper/Thumper_LevelDesc_BonkaBonNight2,Maintenance needed. Play at your own risk.,需要维修。自行承担风险。
+Loc_Thumper/Thumper_Achievement_Desc_15,Make Roxy presentable.,让罗克西看起来体面。
+Loc_Thumper/Thumper_Achievement_Desc_16,Make a Monty costume.,做一个蒙蒂的服装。
+Loc_Thumper/Thumper_LI_SisterLocation_N1C3,Make sure you don’t run out of power before your shift is over.,确保你在轮班结束前不会耗尽电力。
+Loc_Thumper/Thumper_LI_FizzyFaz_N1C1,Make the correct order and send it up the delivery unit.,做出正确的订单，然后通过送货单元送上去。
+Loc_Thumper/Thumper_Prizes_GlitchedMallet,Mallet,锤子
+Loc_Thumper/Thumper_Prizes_MartysPlungersAd,Marty's Plungers Ad,Marty 的吸盘广告
+Loc_Thumper/Thumper_FoodPrep_EggTimerMax,Max,Max
+Loc_Thumper/Thumper_FoodPrep_Meat,Meat,肉
+Loc_Thumper/Thumper_FoodPrep_MeatBites,Meat Bites,肉块
+Loc_Thumper/Thumper_FoodPrep_MeatPretzel,Meat Pretzel,肉卷饼
 Loc_Thumper/Thumper_Prizes_MeatPretzel,Meat Pretzel,肉卷饼
-Loc_Thumper/Thumper_Prizes_MiniDJMusicManActionFigure,Mini DJ Music Man,肉卷饼
-Loc_Thumper/Thumper_Prizes_MiniMusicManActionFigure,Mini Music Man,迷你 DJ Music Man
-Loc_Thumper/Thumper_Prizes_MinireenaActionFigure,Minireena,迷你 Music Man
-Loc_Thumper/Thumper_FizzyFazz_Missing,Missing,Minireena
-Loc_Thumper/Thumper_Prizes_MixedNuts,Mixed Nuts,失踪
-Loc_Thumper/Thumper_Prizes_GlamMontyActionFigure,Monty,混合坚果
-Loc_Thumper/humper_FoodPrep_MontyMixInstructions,"Monty Mystery Mix - 1 Sugar, 1 Caffeine, 1 Acid",蒙蒂
-Loc_Thumper/Thumper_FoodPrep_SombreroPizza,Monty's Fiesta Pizza,蒙蒂神秘混合 - 1 糖，1 咖啡因，1 酸
-Loc_Thumper/Thumper_Prizes_MoonActionFigure,Moon,蒙蒂的节日披萨
-Loc_Thumper/Thumper_Prizes_GlamMoonPlush,Moon Plush,月亮
-Loc_Thumper/Thumper_Prizes_MoondropPoster,Moondrop Poster,月亮毛绒玩具
-Loc_Thumper/Thumper_FoodPrep_MoreonBack,More on Back,Moondrop 海报
-Loc_Thumper/Thumper_FoodPrep_TheatreIncomingWave1,Morning Rush Incoming!,背面还有
-Loc_Thumper/Thumper_Prizes_MysticHippoPoster,Mystic Hippo Poster,早高峰即将到来！
-Loc_Thumper/Thumper_FizzyFazz_NEWORDER,NEW ORDER,神秘河马海报
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_NIGHTTIME,NIGHT TIME,新订单
-Loc_Thumper/Thumper_Achievement_Name_15,NOBODY LIKES A LOSER,夜晚
-Loc_Thumper/Thumper_GameMenus_Normal,NORMAL,没有人喜欢失败者
-Loc_Thumper/Thumper_FoodPrep_NachoCheese,Nacho Cheese,正常
-Loc_Thumper/Thumper_Title_New,New,纳豆芝士
-Loc_Thumper/Thumper_Title_NewGame,New Game,新
-Loc_Thumper/Thumper_Projector_NewGames1,New tasks available! Check the computer.,新的游戏
-Loc_Thumper/Thumper_General_Next,Next,有新任务可用！检查电脑。
-Loc_Thumper/Thumper_FoodPrep_TheatreIncomingOrder,Next Order Incoming...,下一个
-Loc_Thumper/Thumper_FoodPrep_TheatreIncomingWave5,Night Rush Incoming,下一个订单即将到来...
+Loc_Thumper/Thumper_Prizes_MiniDJMusicManActionFigure,Mini DJ Music Man,迷你 DJ Music Man
+Loc_Thumper/Thumper_Prizes_MiniMusicManActionFigure,Mini Music Man,迷你 Music Man
+Loc_Thumper/Thumper_Prizes_MinireenaActionFigure,Minireena,Minireena
+Loc_Thumper/Thumper_FizzyFazz_Missing,Missing,失踪
+Loc_Thumper/Thumper_Prizes_MixedNuts,Mixed Nuts,混合坚果
+Loc_Thumper/Thumper_Prizes_GlamMontyActionFigure,Monty,蒙蒂
+Loc_Thumper/humper_FoodPrep_MontyMixInstructions,"Monty Mystery Mix - 1 Sugar, 1 Caffeine, 1 Acid",蒙蒂神秘混合 - 1 糖，1 咖啡因，1 酸
+Loc_Thumper/Thumper_FoodPrep_SombreroPizza,Monty's Fiesta Pizza,蒙蒂的节日披萨
+Loc_Thumper/Thumper_Prizes_MoonActionFigure,Moon,月亮
+Loc_Thumper/Thumper_Prizes_GlamMoonPlush,Moon Plush,月亮毛绒玩具
+Loc_Thumper/Thumper_Prizes_MoondropPoster,Moondrop Poster,Moondrop 海报
+Loc_Thumper/Thumper_FoodPrep_MoreonBack,More on Back,背面还有
+Loc_Thumper/Thumper_FoodPrep_TheatreIncomingWave1,Morning Rush Incoming!,早高峰即将到来！
+Loc_Thumper/Thumper_Prizes_MysticHippoPoster,Mystic Hippo Poster,神秘河马海报
+Loc_Thumper/Thumper_FizzyFazz_NEWORDER,NEW ORDER,新订单
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_NIGHTTIME,NIGHT TIME,夜晚
+Loc_Thumper/Thumper_Achievement_Name_15,NOBODY LIKES A LOSER,没有人喜欢失败者
+Loc_Thumper/Thumper_GameMenus_Normal,NORMAL,正常
+Loc_Thumper/Thumper_FoodPrep_NachoCheese,Nacho Cheese,纳豆芝士
+Loc_Thumper/Thumper_Title_New,New,新
+Loc_Thumper/Thumper_Title_NewGame,New Game,新的游戏
+Loc_Thumper/Thumper_Projector_NewGames1,New tasks available! Check the computer.,有新任务可用！检查电脑。
+Loc_Thumper/Thumper_General_Next,Next,下一个
+Loc_Thumper/Thumper_FoodPrep_TheatreIncomingOrder,Next Order Incoming...,下一个订单即将到来...
+Loc_Thumper/Thumper_FoodPrep_TheatreIncomingWave5,Night Rush Incoming,夜晚高峰即将到来
 Loc_Thumper/Thumper_ColdStorage_DiagnosticTool1,"No Connection
-Detected",夜晚高峰即将到来
-Loc_Thumper/Thumper_FoodPrep_TheatreNoExtra,No Freebies!,"未检测到
+Detected","未检测到
 任何连接"
-Loc_Thumper/Thumper_FoodPrep_TheatreIncomingWave2,Noon Rush Incoming!,不要白拿！
-Loc_Thumper/Thumper_FoodPrep_NotMeat,Not Meat,中午高峰即将到来！
-Loc_Thumper/Thumper_PQ4_OMCText3,Now go to next room.,午餐肉
-Loc_Thumper/Thumper_GameMenus_Off,OFF,现在去下一个房间。
-Loc_Thumper/Thumper_Achievement_Name_5,OPEN YOUR EYES,关
-Loc_Thumper/Thumper_PauseMenu_Options,OPTIONS,睁开你的眼睛
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_ORANGE,ORANGE,选项
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_DrinkName,ORDER: DRINK NAME,橙色
-Loc_Thumper/Thumper_FizzyFazz_OOT,OUT OF TIME,订单：饮料名称
-Loc_Thumper/Thumper_LevelTitle_RASisterLFuntime,Office: Funtime Gang,时间到
-Loc_Thumper/Thumper_LevelTitle_RASisterLJob,Office: Job Interview,办公室：欢乐马戏团
-Loc_Thumper/Thumper_LevelTitle_RASisterLPrivateRoom,Office: Private Room,办公室：面试
-Loc_Thumper/Thumper_LevelTitle_SLPuppet,Office: Puppet Master,办公室：私人房间
-Loc_Thumper/Thumper_LevelDesc_BreakerRoomNight2,"Oh no! Once again, the breaker room needs a manual reset.",办公室：木偶大师
-Loc_Thumper/Thumper_LevelDesc_BreakerRoom,Oh no! The breaker room needs a manual reset.,哦，不！断路器室又需要手动重置了。
-Loc_Thumper/Thumper_PQ4_ChestHeart,"Oh, how nice!",哦，不！断路器室需要手动重置。
-Loc_Thumper/Thumper_SL_On/Off,On/Off,哦，多好！
-Loc_Thumper/Thumper_Achievement_Desc_26,Only hit Helpy during Round 1 of Bonk a' Bon.,开/关
-Loc_Thumper/Thumper_EW_CardScreen_Open,Open,只在 Bonk a' Bon 的第一轮打帮帮。
-Loc_Thumper/Thumper_Projector_Greeting4,Open the files and pick a task.,打开
-Loc_Thumper/Thumper_Projector_FFUpset5,Open the gift. Don’t make me ask again.,打开文件，选择一个任务。
-Loc_Thumper/Thumper_FoodPrep_Orange,Orange,打开礼物。不要让我再问一遍。
-Loc_Thumper/Thumper_FoodPrep_OrderTime,Order Time:,橙色
-Loc_Thumper/Thumper_FoodPrep_OrderTime999,Order Time: 999,订单时间：
-Loc_Thumper/Thumper_Achievement_Name_30,PICTURE DAY,订单时间：999
-Loc_Thumper/Thumper_Language_Portuguese_Brazil,PORTUGUESE (BRAZIL),照相日
-Loc_Thumper/Thumper_GameMenus_Protanope,PROTANOPIA,葡萄牙语（巴西）
-Loc_Thumper/Thumper_FizzyFazz_PROTEIN,PROTEIN,红绿色盲
+Loc_Thumper/Thumper_FoodPrep_TheatreNoExtra,No Freebies!,不要白拿！
+Loc_Thumper/Thumper_FoodPrep_TheatreIncomingWave2,Noon Rush Incoming!,中午高峰即将到来！
+Loc_Thumper/Thumper_FoodPrep_NotMeat,Not Meat,午餐肉
+Loc_Thumper/Thumper_PQ4_OMCText3,Now go to next room.,现在去下一个房间。
+Loc_Thumper/Thumper_GameMenus_Off,OFF,关
+Loc_Thumper/Thumper_Achievement_Name_5,OPEN YOUR EYES,睁开你的眼睛
+Loc_Thumper/Thumper_PauseMenu_Options,OPTIONS,选项
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_ORANGE,ORANGE,橙色
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_DrinkName,ORDER: DRINK NAME,订单：饮料名称
+Loc_Thumper/Thumper_FizzyFazz_OOT,OUT OF TIME,时间到
+Loc_Thumper/Thumper_LevelTitle_RASisterLFuntime,Office: Funtime Gang,办公室：欢乐马戏团
+Loc_Thumper/Thumper_LevelTitle_RASisterLJob,Office: Job Interview,办公室：面试
+Loc_Thumper/Thumper_LevelTitle_RASisterLPrivateRoom,Office: Private Room,办公室：私人房间
+Loc_Thumper/Thumper_LevelTitle_SLPuppet,Office: Puppet Master,办公室：木偶大师
+Loc_Thumper/Thumper_LevelDesc_BreakerRoomNight2,"Oh no! Once again, the breaker room needs a manual reset.",哦，不！断路器室又需要手动重置了。
+Loc_Thumper/Thumper_LevelDesc_BreakerRoom,Oh no! The breaker room needs a manual reset.,哦，不！断路器室需要手动重置。
+Loc_Thumper/Thumper_PQ4_ChestHeart,"Oh, how nice!",哦，多好！
+Loc_Thumper/Thumper_SL_On/Off,On/Off,开/关
+Loc_Thumper/Thumper_Achievement_Desc_26,Only hit Helpy during Round 1 of Bonk a' Bon.,只在 Bonk a' Bon 的第一轮打帮帮。
+Loc_Thumper/Thumper_EW_CardScreen_Open,Open,打开
+Loc_Thumper/Thumper_Projector_Greeting4,Open the files and pick a task.,打开文件，选择一个任务。
+Loc_Thumper/Thumper_Projector_FFUpset5,Open the gift. Don’t make me ask again.,打开礼物。不要让我再问一遍。
+Loc_Thumper/Thumper_FoodPrep_Orange,Orange,橙色
+Loc_Thumper/Thumper_FoodPrep_OrderTime,Order Time:,订单时间：
+Loc_Thumper/Thumper_FoodPrep_OrderTime999,Order Time: 999,订单时间：999
+Loc_Thumper/Thumper_Achievement_Name_30,PICTURE DAY,照相日
+Loc_Thumper/Thumper_Language_Portuguese_Brazil,PORTUGUESE (BRAZIL),葡萄牙语（巴西）
+Loc_Thumper/Thumper_GameMenus_Protanope,PROTANOPIA,红绿色盲
+Loc_Thumper/Thumper_FizzyFazz_PROTEIN,PROTEIN,蛋白质
 Loc_Thumper/Thumper_AC_PaintBrush,"Paint
-Brush",蛋白质
-Loc_Thumper/Thumper_Achievement_Desc_10,"Paint a S.T.A.F.F Bot, Roxy, and Shattered Roxy with all dark green makeup","笔
+Brush","笔
 刷"
+Loc_Thumper/Thumper_Achievement_Desc_10,"Paint a S.T.A.F.F Bot, Roxy, and Shattered Roxy with all dark green makeup",用全深绿色的化妆品画一个 S.T.A.F.F 机器人，罗克西和破碎的罗克西
 Loc_Thumper/Thumper_AC_PaperSquares,"Paper
-Squares",用全深绿色的化妆品画一个 S.T.A.F.F 机器人，罗克西和破碎的罗克西
-Loc_Thumper/Thumper_Prizes_PaperPal,Paper Pal,"纸
+Squares","纸
 方块"
-Loc_Thumper/Thumper_EW_CardScreen_Pet,Pet,纸伙伴
-Loc_Thumper/Thumper_Prizes_PigPatchActionFigure,Pig Patch,宠物
-Loc_Thumper/Thumper_EW_CardScreen_Pinata,Pinata,猪补丁
-Loc_Thumper/Thumper_FoodPrep_PinkLemonade,Pink Lemonade,皮纳塔
-Loc_Thumper/Thumper_FoodPrep_Pizza,Pizza,粉红柠檬水
-Loc_Thumper/Thumper_FPPizza_LevelTitle,Pizza Pizza Pizza,披萨
-Loc_Thumper/Thumper_FoodPrep_PizzaRoller,Pizza Roller,披萨披萨披萨
-Loc_Thumper/Thumper_FoodPrep_PizzaSlice,Pizza Slice,披萨滚刀
-Loc_Thumper/Thumper_FoodPrep_Pizzarito,Pizzarito,披萨片
-Loc_Thumper/Thumper_LevelDesc_SalonMakeoverStaffBot,Places please! Prepare S.T.A.F.F. Bots for showtime in the green room.,Pizzarito(WIP)
-Loc_Thumper/Thumper_EW_CardScreen_Play,Play,请就位！在化妆间为 S.T.A.F.F. 机器人准备表演。
-Loc_Thumper/Thumper_Activity_Desc_2,Play games in the Fazcade! Fun! Fun! Fun! ,Faz
-Loc_Thumper/Thumper_BonnieBowl_Play,Play!,在 Faz游戏厅 里玩游戏！好玩！好玩！好玩！
-Loc_Thumper/Thumper_Prizes_Plush,Plush,玩！
-Loc_Thumper/Thumper_Prizes_PlushBabyActionFigure,PlushBaby,毛绒
-Loc_Thumper/Thumper_LI_BonkABon_N1C2,PlushBaby takes more hits! Don’t let her get you.,毛绒宝贝
-Loc_Thumper/Thumper_Fazerblast_Points,Points: ,毛绒宝贝 需要多打几下！不要让她抓到你。
-Loc_Thumper/Thumper_EW_CardScreen_Pool,Pool,点数
-Loc_Thumper/Thumper_FoodPrep_Popcorn,Popcorn,泳池
+Loc_Thumper/Thumper_Prizes_PaperPal,Paper Pal,纸伙伴
+Loc_Thumper/Thumper_EW_CardScreen_Pet,Pet,宠物
+Loc_Thumper/Thumper_Prizes_PigPatchActionFigure,Pig Patch,猪补丁
+Loc_Thumper/Thumper_EW_CardScreen_Pinata,Pinata,皮纳塔
+Loc_Thumper/Thumper_FoodPrep_PinkLemonade,Pink Lemonade,粉红柠檬水
+Loc_Thumper/Thumper_FoodPrep_Pizza,Pizza,披萨
+Loc_Thumper/Thumper_FPPizza_LevelTitle,Pizza Pizza Pizza,披萨披萨披萨
+Loc_Thumper/Thumper_FoodPrep_PizzaRoller,Pizza Roller,披萨滚刀
+Loc_Thumper/Thumper_FoodPrep_PizzaSlice,Pizza Slice,披萨片
+Loc_Thumper/Thumper_FoodPrep_Pizzarito,Pizzarito,Pizzarito(WIP)
+Loc_Thumper/Thumper_LevelDesc_SalonMakeoverStaffBot,Places please! Prepare S.T.A.F.F. Bots for showtime in the green room.,请就位！在化妆间为 S.T.A.F.F. 机器人准备表演。
+Loc_Thumper/Thumper_EW_CardScreen_Play,Play,Faz
+Loc_Thumper/Thumper_Activity_Desc_2,Play games in the Fazcade! Fun! Fun! Fun! ,在 Faz游戏厅 里玩游戏！好玩！好玩！好玩！
+Loc_Thumper/Thumper_BonnieBowl_Play,Play!,玩！
+Loc_Thumper/Thumper_Prizes_Plush,Plush,毛绒
+Loc_Thumper/Thumper_Prizes_PlushBabyActionFigure,PlushBaby,毛绒宝贝
+Loc_Thumper/Thumper_LI_BonkABon_N1C2,PlushBaby takes more hits! Don’t let her get you.,毛绒宝贝 需要多打几下！不要让她抓到你。
+Loc_Thumper/Thumper_Fazerblast_Points,Points: ,点数
+Loc_Thumper/Thumper_EW_CardScreen_Pool,Pool,泳池
+Loc_Thumper/Thumper_FoodPrep_Popcorn,Popcorn,爆米花
 Loc_Thumper/Thumper_AC_PopsicleSticks,"Popsicle
-Sticks",爆米花
-Loc_Thumper/Thumper_Prizes_Posters,Posters,"冰
+Sticks","冰
 棍"
-Loc_Thumper/Thumper_LevelDesc_FazerblastNight2,Pow! Pow! Throw balls in the Fazerblast Western shooting gallery!,海报
-Loc_Thumper/Thumper_SisterLocation_Power,Power :,砰！砰！在 Fazerblast 西部射击场里扔球！
-Loc_Thumper/Thumper_EW_CardScreen_Present,Present,电力：
-Loc_Thumper/Thumper_PQ4_PressAnyButton,Press Any Button,礼物
-Loc_Thumper/Thumper_Splash_PABTA,Press Any Button to Agree,按任意键
-Loc_Thumper/Thumper_PQ4_PABTC,Press Any Button to Continue,按任意键同意
-Loc_Thumper/Thumper_Projector1_Text2,"Press forward to aim, and release to teleport.",按任意键继续
-Loc_Thumper/Thumper_FoodPrep_Pretzel,Pretzel,向前按以瞄准，松开以传送。
-Loc_Thumper/Thumper_Prizes_PretzelPoster,Pretzel Poster,椒盐卷饼
-Loc_Thumper/Thumper_PQ2D_LevelTitle,Princess Quest (2D),椒盐卷饼海报
-Loc_Thumper/Thumper_PQVR_LevelTitle,Princess Quest (VR),公主任务（2D）
-Loc_Thumper/Thumper_LI_BreakerRoom_N1C1,Push the handles forward to complete the circuits and charge the gauges.,公主任务（VR）
-Loc_Thumper/Thumper_DHSWarning_WristStraps,Put on and tighten the straps.,向前推动手柄，完成电路并充满计量器。
-Loc_Thumper/Thumper_PauseMenu_Quit,QUIT,戴上并拉紧带子。
-Loc_Thumper/Thumper_LI_FoodPrepTheater_N1C1,Quickly prepare the snack orders before the movie starts! Be sure to get the toppings correct or the customers won’t be happy!,退出
+Loc_Thumper/Thumper_Prizes_Posters,Posters,海报
+Loc_Thumper/Thumper_LevelDesc_FazerblastNight2,Pow! Pow! Throw balls in the Fazerblast Western shooting gallery!,砰！砰！在 Fazerblast 西部射击场里扔球！
+Loc_Thumper/Thumper_SisterLocation_Power,Power :,电力：
+Loc_Thumper/Thumper_EW_CardScreen_Present,Present,礼物
+Loc_Thumper/Thumper_PQ4_PressAnyButton,Press Any Button,按任意键
+Loc_Thumper/Thumper_Splash_PABTA,Press Any Button to Agree,按任意键同意
+Loc_Thumper/Thumper_PQ4_PABTC,Press Any Button to Continue,按任意键继续
+Loc_Thumper/Thumper_Projector1_Text2,"Press forward to aim, and release to teleport.",向前按以瞄准，松开以传送。
+Loc_Thumper/Thumper_FoodPrep_Pretzel,Pretzel,椒盐卷饼
+Loc_Thumper/Thumper_Prizes_PretzelPoster,Pretzel Poster,椒盐卷饼海报
+Loc_Thumper/Thumper_PQ2D_LevelTitle,Princess Quest (2D),公主任务（2D）
+Loc_Thumper/Thumper_PQVR_LevelTitle,Princess Quest (VR),公主任务（VR）
+Loc_Thumper/Thumper_LI_BreakerRoom_N1C1,Push the handles forward to complete the circuits and charge the gauges.,向前推动手柄，完成电路并充满计量器。
+Loc_Thumper/Thumper_DHSWarning_WristStraps,Put on and tighten the straps.,戴上并拉紧带子。
+Loc_Thumper/Thumper_PauseMenu_Quit,QUIT,退出
+Loc_Thumper/Thumper_LI_FoodPrepTheater_N1C1,Quickly prepare the snack orders before the movie starts! Be sure to get the toppings correct or the customers won’t be happy!,在电影开始前快速准备小吃订单！一定要把配料弄对，否则客人会不高兴！
 Loc_Thumper/Thumper_FoodPrep_R.R.GNachos,"R.R.G
-Nachos",在电影开始前快速准备小吃订单！一定要把配料弄对，否则客人会不高兴！
-Loc_Thumper/Thumper_SisterLocation_LevelTitle,RA - Sister Location,"R.R.G
+Nachos","R.R.G
 玉米片"
-Loc_Thumper/Thumper_FirstAid_RabiesVaccinated,RABIES: VACCINATED,RA - 姊妹店(姐妹地点)
-Loc_Thumper/Thumper_FirstAid_RabiesYes,RABIES: YES,狂犬病：接种
-Loc_Thumper/Thumper_SM_Ready,READY,狂犬病：是
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_RECIPE,RECIPE,准备
-Loc_Thumper/Thumper_GameMenus_Reflection,REFLECTION,食谱
-Loc_Thumper/Thumper_FirstAid_ReflexCheckVitals,REFLEX: CHECK,反射
-Loc_Thumper/Thumper_Achievement_Name_11,REMEMBER JEREMY?,反射：检查
-Loc_Thumper/Thumper_DJMM_Replay,REPLAY,还记得杰里米吗？
-Loc_Thumper/Thumper_PauseMenu_ResetView,RESET VIEW,重玩
-Loc_Thumper/Thumper_GameMenus_Resolution,RESOLUTION,重置视角
-Loc_Thumper/Thumper_FizzyFazz_RESOURCEMANAGER,RESOURCE MANAGER,分辨率
-Loc_Thumper/Thumper_PauseMenu_Restart,RESTART,资源管理器
-Loc_Thumper/Thumper_GameMenus_Right,RIGHT,重新开始
-Loc_Thumper/Thumper_FirstAid_RightArmCut,RIGHT ARM: CUT,右
-Loc_Thumper/Thumper_FirstAid_RightArmCutMended,RIGHT ARM: CUT MENDED,右臂：割伤
-Loc_Thumper/Thumper_FirstAid_RightArmPressureApplied,RIGHT ARM: PRESSURE APPLIED,右臂：割伤愈合
-Loc_Thumper/Thumper_FirstAid_RightEyeCleaned,RIGHT EYE CLEANED,右臂：施加压力
-Loc_Thumper/Thumper_DJMM_RoundFormat,ROUND {CurrentRound}/{FinalRound},右眼清洁
-Loc_Thumper/Thumper_FirstAid_RoundFormat,ROUND {round} COMPLETE,回合 {CurrentRound}/{FinalRound}
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_ROXYCOLA,ROXY COLA,回合 {round} 完成
-Loc_Thumper/Thumper_FizzyFazz_Redeploying,Redeploying,罗克西可乐
-Loc_Thumper/Thumper_ColdStorage_ReleaseCake,Release Cake,重新部署
-Loc_Thumper/Thumper_LI_Carousel_N1C3,Repair the circuit board. Don’t forget to solder in new wires with the soldering gun.,释放蛋糕
-Loc_Thumper/Thumper_LevelDesc_OfficeSLPrivateRoom,Restricted area.,修理电路板。别忘了用焊枪焊上新的电线。
-Loc_Thumper/Thumper_Achievement_Desc_11,Retrieve a memory.,限制区域。
-Loc_Thumper/Thumper_VictoryDefeat_Retry,Retry,找回一个记忆(内存WIP)。
-Loc_Thumper/Thumper_VictoryDefeat_Hub,Return to Hub,重试
-Loc_Thumper/Thumper_FoodPrep_Rice,Rice,返回中心
-Loc_Thumper/Thumper_Activity_Desc_6,Ride a selection of our E ticket attractions!,米饭
-Loc_Thumper/Thumper_Bab_Round1,Round 1,乘坐我们的电子票选景点!
-Loc_Thumper/Thumper_BaB_Round2,Round 2,回合 1
-Loc_Thumper/Thumper_BaB_Round3,Round 3,回合 2
-Loc_Thumper/Thumper_BaB_RoundFinished,Round Finished,回合 3
-Loc_Thumper/Thumper_BaB_RoundLose,Round Lose!,回合结束
-Loc_Thumper/Thumper_BaB_RoundWin,Round Win!,回合失败！
-Loc_Thumper/Thumper_Prizes_GlamRoxyActionFigure,Roxy,回合胜利！
-Loc_Thumper/Thumper_FoodPrep_Nachos,Roxy’s Rockin’ Nachos,罗克西
-Loc_Thumper/Thumper_Prizes_RuinedDJMusicManActionFigure,Ruined DJ Music Man,罗克西的摇滚玉米片
-Loc_Thumper/Thumper_FoodPrep_TheatreEndGame,Rush Complete!,毁坏的 DJ Music Man
-Loc_Thumper/Thumper_FoodPrep_TheatreStartGame,Rush Incoming!,高峰完成！
-Loc_Thumper/Thumper_FoodPrep_Small,S,高峰到来！
+Loc_Thumper/Thumper_SisterLocation_LevelTitle,RA - Sister Location,RA - 姊妹店(姐妹地点)
+Loc_Thumper/Thumper_FirstAid_RabiesVaccinated,RABIES: VACCINATED,狂犬病：接种
+Loc_Thumper/Thumper_FirstAid_RabiesYes,RABIES: YES,狂犬病：是
+Loc_Thumper/Thumper_SM_Ready,READY,准备
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_RECIPE,RECIPE,食谱
+Loc_Thumper/Thumper_GameMenus_Reflection,REFLECTION,反射
+Loc_Thumper/Thumper_FirstAid_ReflexCheckVitals,REFLEX: CHECK,反射：检查
+Loc_Thumper/Thumper_Achievement_Name_11,REMEMBER JEREMY?,还记得杰里米吗？
+Loc_Thumper/Thumper_DJMM_Replay,REPLAY,重玩
+Loc_Thumper/Thumper_PauseMenu_ResetView,RESET VIEW,重置视角
+Loc_Thumper/Thumper_GameMenus_Resolution,RESOLUTION,分辨率
+Loc_Thumper/Thumper_FizzyFazz_RESOURCEMANAGER,RESOURCE MANAGER,资源管理器
+Loc_Thumper/Thumper_PauseMenu_Restart,RESTART,重新开始
+Loc_Thumper/Thumper_GameMenus_Right,RIGHT,右
+Loc_Thumper/Thumper_FirstAid_RightArmCut,RIGHT ARM: CUT,右臂：割伤
+Loc_Thumper/Thumper_FirstAid_RightArmCutMended,RIGHT ARM: CUT MENDED,右臂：割伤愈合
+Loc_Thumper/Thumper_FirstAid_RightArmPressureApplied,RIGHT ARM: PRESSURE APPLIED,右臂：施加压力
+Loc_Thumper/Thumper_FirstAid_RightEyeCleaned,RIGHT EYE CLEANED,右眼清洁
+Loc_Thumper/Thumper_DJMM_RoundFormat,ROUND {CurrentRound}/{FinalRound},回合 {CurrentRound}/{FinalRound}
+Loc_Thumper/Thumper_FirstAid_RoundFormat,ROUND {round} COMPLETE,回合 {round} 完成
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_ROXYCOLA,ROXY COLA,罗克西可乐
+Loc_Thumper/Thumper_FizzyFazz_Redeploying,Redeploying,重新部署
+Loc_Thumper/Thumper_ColdStorage_ReleaseCake,Release Cake,释放蛋糕
+Loc_Thumper/Thumper_LI_Carousel_N1C3,Repair the circuit board. Don’t forget to solder in new wires with the soldering gun.,修理电路板。别忘了用焊枪焊上新的电线。
+Loc_Thumper/Thumper_LevelDesc_OfficeSLPrivateRoom,Restricted area.,限制区域。
+Loc_Thumper/Thumper_Achievement_Desc_11,Retrieve a memory.,找回一个记忆(内存WIP)。
+Loc_Thumper/Thumper_VictoryDefeat_Retry,Retry,重试
+Loc_Thumper/Thumper_VictoryDefeat_Hub,Return to Hub,返回中心
+Loc_Thumper/Thumper_FoodPrep_Rice,Rice,米饭
+Loc_Thumper/Thumper_Activity_Desc_6,Ride a selection of our E ticket attractions!,乘坐我们的电子票选景点!
+Loc_Thumper/Thumper_Bab_Round1,Round 1,回合 1
+Loc_Thumper/Thumper_BaB_Round2,Round 2,回合 2
+Loc_Thumper/Thumper_BaB_Round3,Round 3,回合 3
+Loc_Thumper/Thumper_BaB_RoundFinished,Round Finished,回合结束
+Loc_Thumper/Thumper_BaB_RoundLose,Round Lose!,回合失败！
+Loc_Thumper/Thumper_BaB_RoundWin,Round Win!,回合胜利！
+Loc_Thumper/Thumper_Prizes_GlamRoxyActionFigure,Roxy,罗克西
+Loc_Thumper/Thumper_FoodPrep_Nachos,Roxy’s Rockin’ Nachos,罗克西的摇滚玉米片
+Loc_Thumper/Thumper_Prizes_RuinedDJMusicManActionFigure,Ruined DJ Music Man,毁坏的 DJ Music Man
+Loc_Thumper/Thumper_FoodPrep_TheatreEndGame,Rush Complete!,高峰完成！
+Loc_Thumper/Thumper_FoodPrep_TheatreStartGame,Rush Incoming!,高峰到来！
+Loc_Thumper/Thumper_FoodPrep_Small,S,S
 Loc_Thumper/Thumper_FoodPrep_S.CTaco,"S.C 
-Taco",S
-Loc_Thumper/Thumper_Prizes_StaffbotActionFigure,S.T.A.F.F. Bot,"S.C
+Taco","S.C
 玉米饼"
-Loc_Thumper/Thumper_Prizes_StaffbotHead,S.T.A.F.F. Bot Head,S.T.A.F.F. 机器人
-Loc_Thumper/Thumper_FizzyFazz_SALT,SALT,S.T.A.F.F. 机器人头
-Loc_Thumper/Thumper_FizzyFazz_SaltWorking,SALT : Working,盐
-Loc_Thumper/Thumper_BaB_SCORE,SCORE,盐：工作
-Loc_Thumper/Thumper_Achievement_Name_25,SEEING RED,分数
-Loc_Thumper/Thumper_GameMenus_SFXVolume,SFX VOLUME,看红
-Loc_Thumper/Thumper_GameMenus_Shadows,SHADOWS,音效音量
-Loc_Thumper/Thumper_Achievement_Name_1,SHIFT COMPLETE,阴影
-Loc_Thumper/Thumper_SisterLocation_CameraSystem_Shocking,SHOCKING,轮班完成
+Loc_Thumper/Thumper_Prizes_StaffbotActionFigure,S.T.A.F.F. Bot,S.T.A.F.F. 机器人
+Loc_Thumper/Thumper_Prizes_StaffbotHead,S.T.A.F.F. Bot Head,S.T.A.F.F. 机器人头
+Loc_Thumper/Thumper_FizzyFazz_SALT,SALT,盐
+Loc_Thumper/Thumper_FizzyFazz_SaltWorking,SALT : Working,盐：工作
+Loc_Thumper/Thumper_BaB_SCORE,SCORE,分数
+Loc_Thumper/Thumper_Achievement_Name_25,SEEING RED,看红
+Loc_Thumper/Thumper_GameMenus_SFXVolume,SFX VOLUME,音效音量
+Loc_Thumper/Thumper_GameMenus_Shadows,SHADOWS,阴影
+Loc_Thumper/Thumper_Achievement_Name_1,SHIFT COMPLETE,轮班完成
+Loc_Thumper/Thumper_SisterLocation_CameraSystem_Shocking,SHOCKING,镇慑(WIP)
 Loc_Thumper/Thumper_FizzyFazz_SHUTDOWN,"SHUT
-DOWN",镇慑(WIP)
-Loc_Thumper/Thumper_GameMenus_Small,SMALL,"关
+DOWN","关
 闭"
-Loc_Thumper/Thumper_Achievement_Name_26,SNAP,小
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_SODARONI,SODARONI,咔嚓
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_SOURLIME,SOUR LIME,索达罗尼
-Loc_Thumper/Thumper_Language_Spanish_Latin_America,SPANISH (LATIN AMERICA),酸柠檬
-Loc_Thumper/Thumper_Language_Spanish_Spain,SPANISH (SPAIN),西班牙语（拉丁美洲）
-Loc_Thumper/Thumper_Achievement_Name_6,SPLASH ZONE,西班牙语（西班牙）
-Loc_Thumper/Thumper_EndoWarehouse_Start,START,飞溅区
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_Status,STATUS:,开始
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_BadBatch,STATUS: BAD BATCH,状态：
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_Success,STATUS: SUCCESS,状态：坏批次
-Loc_Thumper/Thumper_DJMM_Submit,SUBMIT,状态：成功
-Loc_Thumper/Thumper_GameMenus_SubtitleDepth,SUBTITLE DEPTH,提交
-Loc_Thumper/Thumper_GameMenus_SubtitleHeight,SUBTITLE HEIGHT,字幕距离
-Loc_Thumper/Thumper_GameMenus_SubtitleOptions,SUBTITLE OPTIONS,字幕高度
-Loc_Thumper/Thumper_GameMenus_SubtitleSize,SUBTITLE SIZE,字幕选项
-Loc_Thumper/Thumper_FizzyFazz_SUGAR,SUGAR,字幕大小
-Loc_Thumper/Thumper_DJMM_SynthTrack,SYNTH TRACK,糖
-Loc_Thumper/Thumper_FoodPrep_Salad,Salad,合成轨道
-Loc_Thumper/Thumper_RoxyMakeover_LevelTitle,Salon: Glam Makeover,沙拉
-Loc_Thumper/Thumper_RuinMakeover_LevelTitle,Salon: Roxy Repair,沙龙：摇滚工坊
-Loc_Thumper/Thumper_StaffbotMakeover_LevelTitle,Salon: S.T.A.F.F. Makeover,沙龙：罗克西修理
-Loc_Thumper/Thumper_FoodPrep_Sauce1,Sauce 1,沙龙：S.T.A.F.F. 工坊
-Loc_Thumper/Thumper_FoodPrep_Sauce2,Sauce 2,酱料 1
-Loc_Thumper/Thumper_FoodPrep_Sauce3,Sauce 3,酱料 2
-Loc_Thumper/Thumper_LogRide_Scallywag,Scallywag,酱料 3
-Loc_Thumper/Thumper_FirstAid_ScanBody,Scan Body,海盗
-Loc_Thumper/Thumper_FirstAid_ScanChest,Scan Chest,扫描身体
-Loc_Thumper/Thumper_FirstAid_ScanEyes,Scan Eyes,扫描胸部
-Loc_Thumper/Thumper_FirstAid_ScanHands,Scan Hands,扫描眼睛
-Loc_Thumper/Thumper_FirstAid_ScanHead,Scan Head,扫描手
-Loc_Thumper/Thumper_FirstAid_ScanHeadBump,Scan Head Bump,扫描头部
-Loc_Thumper/Thumper_FirstAid_ScanLeftAnkle,Scan Left Ankle,扫描头部撞击(WIP)
-Loc_Thumper/Thumper_FirstAid_ScanLeftArm,Scan Left Arm,扫描左脚踝
-Loc_Thumper/Thumper_FirstAid_ScanLeftKnee,Scan Left Knee,扫描左臂
-Loc_Thumper/Thumper_FirstAid_ScanMouth,Scan Mouth,扫描左膝
-Loc_Thumper/Thumper_FirstAid_ScanNeck,Scan Neck,扫描嘴巴
-Loc_Thumper/Thumper_FirstAid_ScanRightArm,Scan Right Arm,扫描脖子
-Loc_Thumper/Thumper_FirstAid_ScanRightEye,Scan Right Eye,扫描右臂
-Loc_Thumper/Thumper_FirstAid_ScanRightKnee,Scan Right Knee,扫描右眼
-Loc_Thumper/Thumper_FirstAid_ScanRightLeg,Scan Right Leg,扫描右膝
-Loc_Thumper/Thumper_LevelDesc_BonkaBon,Score big on the Circus Baby's Entertainment and Rental's most popular game of skill!,扫描右腿
-Loc_Thumper/Thumper_Prizes_ScrapBabyActionFigure,Scrap Baby,在 马戏团宝贝的娱乐和租赁公司 最受欢迎的技巧游戏中得高分！
-Loc_Thumper/Thumper_Achievement_Desc_5,See the world as it really is. ,废铁宝贝
-Loc_Thumper/Thumper_FoodPrep_SendtoTable,Send to Table,看到世界的真实面貌。
-Loc_Thumper/Thumper_Achievement_Desc_24,Serve food after dropping it.,送到桌子(WIP)
-Loc_Thumper/Thumper_LevelDesc_Theater,Serve hot buttered popcorn and frozen Fazbear blendee drinks for a significant markup!,在掉落后上菜。(WIP)
-Loc_Thumper/Thumper_LevelDesc_FoxyLogRide,Set sail for adventure with Capt. Foxy! Pillage and plunder a town of Wild West landlubbers!,为了赚取高额利润，提供热黄油爆米花和冰镇费斯熊混合饮料！
-Loc_Thumper/Thumper_Prizes_ShatteredChicaActionFigure,Shattered Chica,和 霍斯船长 一起启航冒险！掠夺和劫掠西部的陆地居民！
-Loc_Thumper/Thumper_Prizes_ShatteredRoxyActionFigure,Shattered Roxy,破碎的奇卡
-Loc_Thumper/Thumper_Fazerblast_Shoot,Shoot,破碎的罗克西
-Loc_Thumper/Thumper_Achievement_Desc_23,Shoot a server with the sauce gun. ,射击
-Loc_Thumper/Thumper_LI_FoxyLogRide_N1C1,Shoot targets to get a high score!,用酱料枪射击一个服务器。
-Loc_Thumper/Thumper_Achievement_Desc_33,Shoot those PlushBabies!,射击目标，得到高分！
+Loc_Thumper/Thumper_GameMenus_Small,SMALL,小
+Loc_Thumper/Thumper_Achievement_Name_26,SNAP,咔嚓
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_SODARONI,SODARONI,索达罗尼
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_SOURLIME,SOUR LIME,酸柠檬
+Loc_Thumper/Thumper_Language_Spanish_Latin_America,SPANISH (LATIN AMERICA),西班牙语（拉丁美洲）
+Loc_Thumper/Thumper_Language_Spanish_Spain,SPANISH (SPAIN),西班牙语（西班牙）
+Loc_Thumper/Thumper_Achievement_Name_6,SPLASH ZONE,飞溅区
+Loc_Thumper/Thumper_EndoWarehouse_Start,START,开始
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_Status,STATUS:,状态：
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_BadBatch,STATUS: BAD BATCH,状态：坏批次
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_Success,STATUS: SUCCESS,状态：成功
+Loc_Thumper/Thumper_DJMM_Submit,SUBMIT,提交
+Loc_Thumper/Thumper_GameMenus_SubtitleDepth,SUBTITLE DEPTH,字幕距离
+Loc_Thumper/Thumper_GameMenus_SubtitleHeight,SUBTITLE HEIGHT,字幕高度
+Loc_Thumper/Thumper_GameMenus_SubtitleOptions,SUBTITLE OPTIONS,字幕选项
+Loc_Thumper/Thumper_GameMenus_SubtitleSize,SUBTITLE SIZE,字幕大小
+Loc_Thumper/Thumper_FizzyFazz_SUGAR,SUGAR,糖
+Loc_Thumper/Thumper_DJMM_SynthTrack,SYNTH TRACK,合成轨道
+Loc_Thumper/Thumper_FoodPrep_Salad,Salad,沙拉
+Loc_Thumper/Thumper_RoxyMakeover_LevelTitle,Salon: Glam Makeover,沙龙：摇滚工坊
+Loc_Thumper/Thumper_RuinMakeover_LevelTitle,Salon: Roxy Repair,沙龙：罗克西修理
+Loc_Thumper/Thumper_StaffbotMakeover_LevelTitle,Salon: S.T.A.F.F. Makeover,沙龙：S.T.A.F.F. 工坊
+Loc_Thumper/Thumper_FoodPrep_Sauce1,Sauce 1,酱料 1
+Loc_Thumper/Thumper_FoodPrep_Sauce2,Sauce 2,酱料 2
+Loc_Thumper/Thumper_FoodPrep_Sauce3,Sauce 3,酱料 3
+Loc_Thumper/Thumper_LogRide_Scallywag,Scallywag,海盗
+Loc_Thumper/Thumper_FirstAid_ScanBody,Scan Body,扫描身体
+Loc_Thumper/Thumper_FirstAid_ScanChest,Scan Chest,扫描胸部
+Loc_Thumper/Thumper_FirstAid_ScanEyes,Scan Eyes,扫描眼睛
+Loc_Thumper/Thumper_FirstAid_ScanHands,Scan Hands,扫描手
+Loc_Thumper/Thumper_FirstAid_ScanHead,Scan Head,扫描头部
+Loc_Thumper/Thumper_FirstAid_ScanHeadBump,Scan Head Bump,扫描头部撞击(WIP)
+Loc_Thumper/Thumper_FirstAid_ScanLeftAnkle,Scan Left Ankle,扫描左脚踝
+Loc_Thumper/Thumper_FirstAid_ScanLeftArm,Scan Left Arm,扫描左臂
+Loc_Thumper/Thumper_FirstAid_ScanLeftKnee,Scan Left Knee,扫描左膝
+Loc_Thumper/Thumper_FirstAid_ScanMouth,Scan Mouth,扫描嘴巴
+Loc_Thumper/Thumper_FirstAid_ScanNeck,Scan Neck,扫描脖子
+Loc_Thumper/Thumper_FirstAid_ScanRightArm,Scan Right Arm,扫描右臂
+Loc_Thumper/Thumper_FirstAid_ScanRightEye,Scan Right Eye,扫描右眼
+Loc_Thumper/Thumper_FirstAid_ScanRightKnee,Scan Right Knee,扫描右膝
+Loc_Thumper/Thumper_FirstAid_ScanRightLeg,Scan Right Leg,扫描右腿
+Loc_Thumper/Thumper_LevelDesc_BonkaBon,Score big on the Circus Baby's Entertainment and Rental's most popular game of skill!,在 马戏团宝贝的娱乐和租赁公司 最受欢迎的技巧游戏中得高分！
+Loc_Thumper/Thumper_Prizes_ScrapBabyActionFigure,Scrap Baby,废铁宝贝
+Loc_Thumper/Thumper_Achievement_Desc_5,See the world as it really is. ,看到世界的真实面貌。
+Loc_Thumper/Thumper_FoodPrep_SendtoTable,Send to Table,送到桌子(WIP)
+Loc_Thumper/Thumper_Achievement_Desc_24,Serve food after dropping it.,在掉落后上菜。(WIP)
+Loc_Thumper/Thumper_LevelDesc_Theater,Serve hot buttered popcorn and frozen Fazbear blendee drinks for a significant markup!,为了赚取高额利润，提供热黄油爆米花和冰镇费斯熊混合饮料！
+Loc_Thumper/Thumper_LevelDesc_FoxyLogRide,Set sail for adventure with Capt. Foxy! Pillage and plunder a town of Wild West landlubbers!,和 霍斯船长 一起启航冒险！掠夺和劫掠西部的陆地居民！
+Loc_Thumper/Thumper_Prizes_ShatteredChicaActionFigure,Shattered Chica,破碎的奇卡
+Loc_Thumper/Thumper_Prizes_ShatteredRoxyActionFigure,Shattered Roxy,破碎的罗克西
+Loc_Thumper/Thumper_Fazerblast_Shoot,Shoot,射击
+Loc_Thumper/Thumper_Achievement_Desc_23,Shoot a server with the sauce gun. ,用酱料枪射击一个服务器。
+Loc_Thumper/Thumper_LI_FoxyLogRide_N1C1,Shoot targets to get a high score!,射击目标，得到高分！
+Loc_Thumper/Thumper_Achievement_Desc_33,Shoot those PlushBabies!,射击那些毛绒宝贝！
 Loc_Thumper/Thumper_FoodPrep_ShreddedCheese2,"Shredded
-Cheese",射击那些毛绒宝贝！
-Loc_Thumper/Thumper_FoodPrep_ShreddedCheese,Shredded Cheese,"芝士
+Cheese","芝士
 碎"
+Loc_Thumper/Thumper_FoodPrep_ShreddedCheese,Shredded Cheese,芝士碎
 Loc_Thumper/Thumper_FizzyFazz_ShutDown,"Shut
-Down",芝士碎
-Loc_Thumper/Thumper_Activity_Name_4,Sister Location,"关
+Down","关
 闭"
-Loc_Thumper/Thumper_LevelDesc_OfficeSLFuntimeGang,Sleepover time! Join the Funtime Gang for a night in Circus Baby's Entertainment and Rental.,姊妹店(姐妹地点)
-Loc_Thumper/Thumper_EW_CardScreen_Smash,Smash,睡觉时间！和欢乐马戏团一起在马戏团宝贝的娱乐和租赁公司里过夜。
-Loc_Thumper/Thumper_Achievement_Desc_28,Smash 8 light bulbs.,砸
-Loc_Thumper/Thumper_GameMenus_Smooth,Smooth,砸碎 8 个灯泡。
-Loc_Thumper/Thumper_GameMenus_Snap,Snap,平滑
-Loc_Thumper/Thumper_Prizes_Soda,Soda,咔嚓
-Loc_Thumper/Thumper_FoodPrep_Sodaroni,Sodaroni,苏打水
-Loc_Thumper/Thumper_FoodPrep_SodaroniInstructions,Sodaroni - 2 Salt & 1 Protein,索达罗尼
-Loc_Thumper/Thumper_FoodPrep_SlushySodaroni,Sodaroni Blendee,索达罗尼 - 2 盐 & 1 蛋白质
-Loc_Thumper/Thumper_FoodPrep_SodaroniSlushie,Sodaroni Slushie,索达罗尼混合饮料
-Loc_Thumper/Thumper_FoodPrep_SodaroniSoda,Sodaroni Soda,索达罗尼冰沙
+Loc_Thumper/Thumper_Activity_Name_4,Sister Location,姊妹店(姐妹地点)
+Loc_Thumper/Thumper_LevelDesc_OfficeSLFuntimeGang,Sleepover time! Join the Funtime Gang for a night in Circus Baby's Entertainment and Rental.,睡觉时间！和欢乐马戏团一起在马戏团宝贝的娱乐和租赁公司里过夜。
+Loc_Thumper/Thumper_EW_CardScreen_Smash,Smash,砸
+Loc_Thumper/Thumper_Achievement_Desc_28,Smash 8 light bulbs.,砸碎 8 个灯泡。
+Loc_Thumper/Thumper_GameMenus_Smooth,Smooth,平滑
+Loc_Thumper/Thumper_GameMenus_Snap,Snap,咔嚓
+Loc_Thumper/Thumper_Prizes_Soda,Soda,苏打水
+Loc_Thumper/Thumper_FoodPrep_Sodaroni,Sodaroni,索达罗尼
+Loc_Thumper/Thumper_FoodPrep_SodaroniInstructions,Sodaroni - 2 Salt & 1 Protein,索达罗尼 - 2 盐 & 1 蛋白质
+Loc_Thumper/Thumper_FoodPrep_SlushySodaroni,Sodaroni Blendee,索达罗尼混合饮料
+Loc_Thumper/Thumper_FoodPrep_SodaroniSlushie,Sodaroni Slushie,索达罗尼冰沙
+Loc_Thumper/Thumper_FoodPrep_SodaroniSoda,Sodaroni Soda,索达罗尼苏打水
 Loc_Thumper/Thumper_FirstAid_ChemicalEyeText,"Some chemicals are in Helpy's eyes!
 Use the {PLACEHOLDER} Cleanser on both
-eyes to clean them out.",索达罗尼苏打水
-Loc_Thumper/Thumper_FoodPrep_SourLime,Sour Lime,"帮帮的眼睛里有一些化学物质！
+eyes to clean them out.","帮帮的眼睛里有一些化学物质！
 用 {PLACEHOLDER} 清洁剂清洗两只
 眼睛。"
-Loc_Thumper/Thumper_FoodPrep_SprayCheese,Spray Cheese,酸柠檬
-Loc_Thumper/Thumper_Activity_Name_5,Staff Only,喷雾芝士
-Loc_Thumper/Thumper_General_Start,Start,员工专用
-Loc_Thumper/Thumper_General_StartGame,Start Game,开始
-Loc_Thumper/Thumper_HUB_StartLevel,Start Level,开始游戏
-Loc_Thumper/Thumper_FirstAid_StartingFormat,Starting {task},开始关卡
-Loc_Thumper/Thumper_FizzyFazz_BotStatus,Status,开始 {task}
-Loc_Thumper/Thumper_LI_BalloraGallery_N1C2,Stay away from Ballora and the Minireenas.,状态
-Loc_Thumper/Thumper_Projector_Teleport4,Stay within the designated areas.,远离 芭蕾菈 和 迷你瑞纳。
-Loc_Thumper/Thumper_Prizes_SunActionFigure,Sun,保持在指定的区域内。
-Loc_Thumper/Thumper_Prizes_GlamSunPlush,Sun Plush,太阳
-Loc_Thumper/Thumper_Prizes_SundropPoster,Sundrop Poster,太阳毛绒玩具
-Loc_Thumper/Thumper_LI_SisterLocation_N1C1,Survive the night. Watch the cameras to check for danger.,日落 海报
-Loc_Thumper/Thumper_EW_CardScreen_Swim,Swim,在夜晚生存。观看摄像头，检查危险。
-Loc_Thumper/Thumper_Achievement_Desc_2,System threats found. Repair complete,游泳
-Loc_Thumper/Thumper_Achievement_Name_29,TAKING CANDY FROM A BABY,发现系统威胁。修复完成。
-Loc_Thumper/Thumper_FirstAid_TempHigh,TEMP: HIGH,从婴儿那里拿糖果
-Loc_Thumper/Thumper_GameMenus_Textures,TEXTURES,温度：高
-Loc_Thumper/Thumper_Achievement_Name_33,THEY HAD IT COMING,纹理
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_Invalid,THIS IS INVALID,他们活该
-Loc_Thumper/Thumper_Bab_Time,TIME,这是无效的
-Loc_Thumper/Thumper_Achievement_Name_20,TINY DANCER,时间
-Loc_Thumper/Thumper_BB_ScoreTotal,TOTAL,小舞者
-Loc_Thumper/Thumper_GameMenus_Tritanope,TRITANOPIA,总计
-Loc_Thumper/Thumper_GameMenus_TurnSpeed,TURN SPEED,三色型色盲
-Loc_Thumper/Thumper_GameMenus_TurnStyles,TURN STYLE,转速
-Loc_Thumper/Thumper_GameMenus_TurningHand,TURNING HAND,转向方式
-Loc_Thumper/Thumper_HUB_TUTORIAL,TUTORIAL,转动手
-Loc_Thumper/Thumper_PQ4_Takeit,Take it,教程
-Loc_Thumper/Thumper_LevelDesc_DJMusicTime,Take private lessons with DJ Music Man and learn to DJ in this beginner session.,拿走它
-Loc_Thumper/Thumper_Achievement_Desc_3,Take this mask. Take this mask. ,跟DJ音乐人学习私人课程，在这个初级课程中学习 DJ。
-Loc_Thumper/Thumper_BaB_Target,Target:,拿这个面具。拿这个面具。
-Loc_Thumper/Thumper_LI_EndoWarehouse_N1C1,Teach the new Endo how to behave. Pair the correct behaviors on the cards.,目标：
-Loc_Thumper/Thumper_LevelDesc_EndoWarehouse,Teaching time! Prepare Endos for life in the Pizza Plex.,教新的内部骨架如何行为。在卡片上配对正确的行为。
+Loc_Thumper/Thumper_FoodPrep_SourLime,Sour Lime,酸柠檬
+Loc_Thumper/Thumper_FoodPrep_SprayCheese,Spray Cheese,喷雾芝士
+Loc_Thumper/Thumper_Activity_Name_5,Staff Only,员工专用
+Loc_Thumper/Thumper_General_Start,Start,开始
+Loc_Thumper/Thumper_General_StartGame,Start Game,开始游戏
+Loc_Thumper/Thumper_HUB_StartLevel,Start Level,开始关卡
+Loc_Thumper/Thumper_FirstAid_StartingFormat,Starting {task},开始 {task}
+Loc_Thumper/Thumper_FizzyFazz_BotStatus,Status,状态
+Loc_Thumper/Thumper_LI_BalloraGallery_N1C2,Stay away from Ballora and the Minireenas.,远离 芭蕾菈 和 迷你瑞纳。
+Loc_Thumper/Thumper_Projector_Teleport4,Stay within the designated areas.,保持在指定的区域内。
+Loc_Thumper/Thumper_Prizes_SunActionFigure,Sun,太阳
+Loc_Thumper/Thumper_Prizes_GlamSunPlush,Sun Plush,太阳毛绒玩具
+Loc_Thumper/Thumper_Prizes_SundropPoster,Sundrop Poster,日落 海报
+Loc_Thumper/Thumper_LI_SisterLocation_N1C1,Survive the night. Watch the cameras to check for danger.,在夜晚生存。观看摄像头，检查危险。
+Loc_Thumper/Thumper_EW_CardScreen_Swim,Swim,游泳
+Loc_Thumper/Thumper_Achievement_Desc_2,System threats found. Repair complete,发现系统威胁。修复完成。
+Loc_Thumper/Thumper_Achievement_Name_29,TAKING CANDY FROM A BABY,从婴儿那里拿糖果
+Loc_Thumper/Thumper_FirstAid_TempHigh,TEMP: HIGH,温度：高
+Loc_Thumper/Thumper_GameMenus_Textures,TEXTURES,纹理
+Loc_Thumper/Thumper_Achievement_Name_33,THEY HAD IT COMING,他们活该
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_Invalid,THIS IS INVALID,这是无效的
+Loc_Thumper/Thumper_Bab_Time,TIME,时间
+Loc_Thumper/Thumper_Achievement_Name_20,TINY DANCER,小舞者
+Loc_Thumper/Thumper_BB_ScoreTotal,TOTAL,总计
+Loc_Thumper/Thumper_GameMenus_Tritanope,TRITANOPIA,三色型色盲
+Loc_Thumper/Thumper_GameMenus_TurnSpeed,TURN SPEED,转速
+Loc_Thumper/Thumper_GameMenus_TurnStyles,TURN STYLE,转向方式
+Loc_Thumper/Thumper_GameMenus_TurningHand,TURNING HAND,转动手
+Loc_Thumper/Thumper_HUB_TUTORIAL,TUTORIAL,教程
+Loc_Thumper/Thumper_PQ4_Takeit,Take it,拿走它
+Loc_Thumper/Thumper_LevelDesc_DJMusicTime,Take private lessons with DJ Music Man and learn to DJ in this beginner session.,跟DJ音乐人学习私人课程，在这个初级课程中学习 DJ。
+Loc_Thumper/Thumper_Achievement_Desc_3,Take this mask. Take this mask. ,拿这个面具。拿这个面具。
+Loc_Thumper/Thumper_BaB_Target,Target:,目标：
+Loc_Thumper/Thumper_LI_EndoWarehouse_N1C1,Teach the new Endo how to behave. Pair the correct behaviors on the cards.,教新的内部骨架如何行为。在卡片上配对正确的行为。
+Loc_Thumper/Thumper_LevelDesc_EndoWarehouse,Teaching time! Prepare Endos for life in the Pizza Plex.,教学时间！为披萨店里的内部骨架做好准备。
 Loc_Thumper/Thumper_Controls_Teleport,"Teleport
-(Push up, Aim, Release)",教学时间！为披萨店里的内部骨架做好准备。
-Loc_Thumper/Thumper_PQ4_TeleportConfirmText,Teleport/ConfirmTeleport,"传送
+(Push up, Aim, Release)","传送
 （向上推，瞄准，松开）"
-Loc_Thumper/Thumper_LevelDesc_FazerblastNight4,Test your skill in the FNAF 2 themed shooting gallery!,传送/确认传送
-Loc_Thumper/Thumper_LI_Carousel_N1C1,The Carousel is broken. Fix it!,在 FNAF 2 主题的射击场里测试你的技能！
-Loc_Thumper/Thumper_LI_SisterLocation_N4C1,"The Minireenas and Bidybab are draining the power. If you see any on the cameras, shock them!",旋转木马坏了。修好它！
-Loc_Thumper/Thumper_LI_SisterLocation_N2C1,The PlushBabies want to play Flashlight Tag! Use the flashlight on them!,迷你瑞纳 和 比迪巴 正在耗尽电力。如果你在摄像头上看到他们，就给他们电击！
-Loc_Thumper/Thumper_LI_SisterLocation_N2C2,"The PlushBabies want to play Red Light Green Light! Shining the flashlight on them is a Red Light, and darkness is the Green Light. Don’t let them reach the office!",毛绒宝贝 想玩手电筒捉迷藏！用手电筒照着她们！
-Loc_Thumper/Thumper_LI_SalonMakeover_N1C3,The S.T.A.F.F. Bots need to be on time! Don’t make them angry.,毛绒宝贝 想玩红灯绿灯！照着她们的手电筒是红灯，黑暗是绿灯。不要让他们到达办公室！
-Loc_Thumper/Thumper_LI_FizzyFaz_N3C3,The Supervisor wants his Special Orders quickly!,S.T.A.F.F. 机器人需要准时！不要惹他们生气。
-Loc_Thumper/Thumper_FoodPrep_TheatreName,The Theatre,主管想要他的特别订单快点！
-Loc_Thumper/Thumper_Projector_Greeting6,The choice is yours.,剧院
-Loc_Thumper/Thumper_LI_SisterLocation_N3C2,"The whole Funtime Gang is out to play tonight. Keep an eye on Foxy, they are quick!",选择权在你。
-Loc_Thumper/Thumper_Projector_FFHappy2,There is a special gift for you on the stage.,整个欢乐马戏团今晚都出来玩了。注意 霍斯，他们很快！
-Loc_Thumper/Thumper_Projector_Greeting2,There is so much work to be done.,舞台上有一份特别的礼物给你。
-Loc_Thumper/Thumper_LevelDesc_OfficeSLPuppetMaster,This custom night is just for you.,有太多的工作要做。
-Loc_Thumper/Thumper_Warning_ThisGameContains,This game contains,这个自定义夜晚是专门为你准备的。
-Loc_Thumper/Thumper_PQ4_BonnieMaskText,This looks familiar...,这个游戏包含
-Loc_Thumper/Thumper_Projector_Teleport2,This message is very important.,这看起来很熟悉……
-Loc_Thumper/Thumper_LI_PQIV_N1C2,This shouldn’t be happening.,这条信息非常重要。
-Loc_Thumper/Thumper_Title_ConfirmNewGame,This will erase your existing game,这不应该发生。
-Loc_Thumper/Thumper_Achievement_Desc_20,Throw a Minireena.,这会清除你现有的游戏进度
-Loc_Thumper/Thumper_Achievement_Desc_32,Throw parts of Helpy at an animatronic threat.,扔一个 迷你瑞纳。
-Loc_Thumper/Thumper_Title_GameTitle,Thumper,把帮帮的部件扔向一个有威胁的电子玩偶。
-Loc_Thumper/Thumper_Activity_Name_6,Ticket Booth,震荡者
-Loc_Thumper/Thumper_Bab_Tilt,Tilt!,售票亭
-Loc_Thumper/Thumper_FoodPrep_TimeLeftFormat,Time Remaining: {Timer},倾斜！
-Loc_Thumper/Thumper_Carousel_ResetText,Time Until Reset,剩余时间：{Timer}
-Loc_Thumper/Thumper_Fazerblast_Time,Time: ,重置时间
-Loc_Thumper/Thumper_FoodPrep_TimeLeft,Timer Remaining: 0,时间：
-Loc_Thumper/Thumper_LI_FoodPrepPizza_N1C1,"To make Pizzas, flatten the dough, add toppings, then bake it.",剩余时间：0
-Loc_Thumper/Thumper_FoodPrep_Tomato,Tomato,制作披萨的方法是，将面团擀平，加入配料，然后烘烤。
-Loc_Thumper/Thumper_BonnieBowl_ScoreTotal,Total : ,番茄
-Loc_Thumper/Thumper_Prizes_TrashandtheGang,Trash and the Gang,总计：
-Loc_Thumper/Thumper_Controls_Turn,Turn,垃圾和一帮小伙伴
-Loc_Thumper/Thumper_LI_FoodPrepPizza_N1C2,Turn completed Pizzas into world famous Pizzaritos? using the Pizza Roller.,转身
-Loc_Thumper/Thumper_Menu_Use,USE,用披萨卷机将做好的披萨卷成世界闻名的披萨卷吗？
-Loc_Thumper/Thumper_SisterLocation_Usage,Usage :,使用
-Loc_Thumper/Thumper_Controls_Use,Use Held Object,用法：
+Loc_Thumper/Thumper_PQ4_TeleportConfirmText,Teleport/ConfirmTeleport,传送/确认传送
+Loc_Thumper/Thumper_LevelDesc_FazerblastNight4,Test your skill in the FNAF 2 themed shooting gallery!,在 FNAF 2 主题的射击场里测试你的技能！
+Loc_Thumper/Thumper_LI_Carousel_N1C1,The Carousel is broken. Fix it!,旋转木马坏了。修好它！
+Loc_Thumper/Thumper_LI_SisterLocation_N4C1,"The Minireenas and Bidybab are draining the power. If you see any on the cameras, shock them!",迷你瑞纳 和 比迪巴 正在耗尽电力。如果你在摄像头上看到他们，就给他们电击！
+Loc_Thumper/Thumper_LI_SisterLocation_N2C1,The PlushBabies want to play Flashlight Tag! Use the flashlight on them!,毛绒宝贝 想玩手电筒捉迷藏！用手电筒照着她们！
+Loc_Thumper/Thumper_LI_SisterLocation_N2C2,"The PlushBabies want to play Red Light Green Light! Shining the flashlight on them is a Red Light, and darkness is the Green Light. Don’t let them reach the office!",毛绒宝贝 想玩红灯绿灯！照着她们的手电筒是红灯，黑暗是绿灯。不要让他们到达办公室！
+Loc_Thumper/Thumper_LI_SalonMakeover_N1C3,The S.T.A.F.F. Bots need to be on time! Don’t make them angry.,S.T.A.F.F. 机器人需要准时！不要惹他们生气。
+Loc_Thumper/Thumper_LI_FizzyFaz_N3C3,The Supervisor wants his Special Orders quickly!,主管想要他的特别订单快点！
+Loc_Thumper/Thumper_FoodPrep_TheatreName,The Theatre,剧院
+Loc_Thumper/Thumper_Projector_Greeting6,The choice is yours.,选择权在你。
+Loc_Thumper/Thumper_LI_SisterLocation_N3C2,"The whole Funtime Gang is out to play tonight. Keep an eye on Foxy, they are quick!",整个欢乐马戏团今晚都出来玩了。注意 霍斯，他们很快！
+Loc_Thumper/Thumper_Projector_FFHappy2,There is a special gift for you on the stage.,舞台上有一份特别的礼物给你。
+Loc_Thumper/Thumper_Projector_Greeting2,There is so much work to be done.,有太多的工作要做。
+Loc_Thumper/Thumper_LevelDesc_OfficeSLPuppetMaster,This custom night is just for you.,这个自定义夜晚是专门为你准备的。
+Loc_Thumper/Thumper_Warning_ThisGameContains,This game contains,这个游戏包含
+Loc_Thumper/Thumper_PQ4_BonnieMaskText,This looks familiar...,这看起来很熟悉……
+Loc_Thumper/Thumper_Projector_Teleport2,This message is very important.,这条信息非常重要。
+Loc_Thumper/Thumper_LI_PQIV_N1C2,This shouldn’t be happening.,这不应该发生。
+Loc_Thumper/Thumper_Title_ConfirmNewGame,This will erase your existing game,这会清除你现有的游戏进度
+Loc_Thumper/Thumper_Achievement_Desc_20,Throw a Minireena.,扔一个 迷你瑞纳。
+Loc_Thumper/Thumper_Achievement_Desc_32,Throw parts of Helpy at an animatronic threat.,把帮帮的部件扔向一个有威胁的电子玩偶。
+Loc_Thumper/Thumper_Title_GameTitle,Thumper,震荡者
+Loc_Thumper/Thumper_Activity_Name_6,Ticket Booth,售票亭
+Loc_Thumper/Thumper_Bab_Tilt,Tilt!,倾斜！
+Loc_Thumper/Thumper_FoodPrep_TimeLeftFormat,Time Remaining: {Timer},剩余时间：{Timer}
+Loc_Thumper/Thumper_Carousel_ResetText,Time Until Reset,重置时间
+Loc_Thumper/Thumper_Fazerblast_Time,Time: ,时间：
+Loc_Thumper/Thumper_FoodPrep_TimeLeft,Timer Remaining: 0,剩余时间：0
+Loc_Thumper/Thumper_LI_FoodPrepPizza_N1C1,"To make Pizzas, flatten the dough, add toppings, then bake it.",制作披萨的方法是，将面团擀平，加入配料，然后烘烤。
+Loc_Thumper/Thumper_FoodPrep_Tomato,Tomato,番茄
+Loc_Thumper/Thumper_BonnieBowl_ScoreTotal,Total : ,总计：
+Loc_Thumper/Thumper_Prizes_TrashandtheGang,Trash and the Gang,垃圾和一帮小伙伴
+Loc_Thumper/Thumper_Controls_Turn,Turn,转身
+Loc_Thumper/Thumper_LI_FoodPrepPizza_N1C2,Turn completed Pizzas into world famous Pizzaritos? using the Pizza Roller.,用披萨卷机将做好的披萨卷成世界闻名的披萨卷吗？
+Loc_Thumper/Thumper_Menu_Use,USE,使用
+Loc_Thumper/Thumper_SisterLocation_Usage,Usage :,用法：
+Loc_Thumper/Thumper_Controls_Use,Use Held Object,使用手持物品
 Loc_Thumper/Thumper_Controls_UseGrabAlt,"Use Held Object
-(Grab Alternate)",使用手持物品
-Loc_Thumper/Thumper_LI_SisterLocation_N3C3,"Use Mr. Cupcake to lure Chica to either side of the office. This will stop others from reaching you. But be careful, Chica is hungry!","使用手持物品
+(Grab Alternate)","使用手持物品
 （按住交替键）"
-Loc_Thumper/Thumper_Projector_Greeting3,Use that touch screen computer.,用杯子蛋糕引诱奇卡到办公室的两边。这样可以阻止其他人接近你。但要小心，奇卡很饿！
-Loc_Thumper/Thumper_LI_Fazerblast_N3C2,Use the Dart Gun to pop balloons!,使用那台触摸屏电脑。
-Loc_Thumper/Thumper_LI_ArtsAndCrafts_N1C2,Use the Dart Gun to shoot the objects you need. Sun will toss them to you!,用飞镖枪戳破气球！
-Loc_Thumper/Thumper_LI_FizzyFaz_N3C2,Use the Double Time button if you need resources quickly. Be careful not to work the S.T.A.F.F. Bots too hard.,用飞镖枪射击你需要的物品。太阳会把它们扔给你！
-Loc_Thumper/Thumper_LI_FizzyFaz_N2C3,Use the Emergency Shut Down if things get out of hand.,如果你需要快速获取资源，就使用双倍时间按钮。但要小心，不要让S.T.A.F.F.机器人干得太累。
-Loc_Thumper/Thumper_LI_Fazerblast_N4C2,"Use the Fazerblaster on the light sensor targets, Balls on the larger targets, and Dart Gun on the Balloons.",如果事情失控了，就使用紧急关机按钮。
-Loc_Thumper/Thumper_LI_Fazerblast_N1C1,Use the Fazerblaster to shoot light sensor targets.,用激光枪射击光敏目标，用球射击较大的目标，用飞镖枪射击气球。
-Loc_Thumper/Thumper_LI_Fazerblast_N2C1,Use the Fazerblaster to shoot light sensor targets. Throw Balls at the larger targets.,用激光枪射击光敏目标。
-Loc_Thumper/Thumper_LI_Fazerblast_N5C1,Use the Flashlight so you can see in the dark!,用激光枪射击光敏目标。用球扔向较大的目标。
-Loc_Thumper/Thumper_Projector1_Text1,Use the Left Stick to move around the Pizza Place.,用手电筒，这样你就能在黑暗中看清楚！
-Loc_Thumper/Thumper_LI_FizzyFaz_N4C2,Use the Purge Button to get rid of contaminated resources.,用左摇杆在披萨店里移动。
-Loc_Thumper/Thumper_LI_SalonMakeover_N3C3,Use the Roxy Talkie to calm Roxy down.,用清除按钮清除被污染的资源。
-Loc_Thumper/Thumper_LI_FizzyFaz_N1C2,Use the cameras to see if the S.T.A.F.F Bots are working.,用罗克西对讲机安抚罗克西。
-Loc_Thumper/Thumper_LI_ColdStorage_N1C3,Use the diagnostic machine to complete repairs.,用摄像头看看S.T.A.F.F.机器人是否在工作。
-Loc_Thumper/Thumper_LI_ArtsAndCrafts_N2C2,Use the flashlight if it gets too scary! Don’t forget to recharge it!,用诊断机器完成修理。
-Loc_Thumper/Thumper_LI_BonnieBowl_N1C3,Use the flashlight to keep Moon away.,如果你觉得太恐怖了，就用手电筒！别忘了给它充电！
-Loc_Thumper/Thumper_LI_ColdStorage_N1C2,"Use the heat gun to defrost Freddy, but don’t let him get too hot!",用手电筒把月亮赶走。
-Loc_Thumper/Thumper_LI_BreakerRoom_N1C2,Use the megaphone on Funtime Freddy to keep him away.,用热枪解冻弗雷迪，但不要让他太热！
-Loc_Thumper/Thumper_LI_BreakerRoom_N2C2,Use the megaphone on Yenndo to keep him away.,用扩音器对准欢乐弗雷迪，让他离你远点。
-Loc_Thumper/Thumper_Projector1_Text3,Use the right stick to turn.,用扩音器对准耶恩多，让他离你远点。
-Loc_Thumper/Thumper_LI_FirstAid_N1C1,Use the scanner gun to see what’s wrong with Helpy,用右摇杆转向。
-Loc_Thumper/Thumper_GameMenus_VideoOptions,VIDEO OPTIONS,用扫描枪看看帮帮有什么问题。
-Loc_Thumper/Thumper_GameMenus_VoiceVolume,VOICE VOLUME,视频选项
-Loc_Thumper/Thumper_GameMenus_VROptions,VR OPTIONS,语音音量
-Loc_Thumper/Thumper_Prizes_VannyActionFigure,Vanny,VR选项
-Loc_Thumper/Thumper_EndoWarehouse_Warning,WARNING,范妮
-Loc_Thumper/Thumper_PauseMenu_Win,WIN!,警告
-Loc_Thumper/Thumper_BaB_WIN,WIN:,赢了！
-Loc_Thumper/Thumper_BonnieBowl_Wait,Wait!,赢了：
+Loc_Thumper/Thumper_LI_SisterLocation_N3C3,"Use Mr. Cupcake to lure Chica to either side of the office. This will stop others from reaching you. But be careful, Chica is hungry!",用杯子蛋糕引诱奇卡到办公室的两边。这样可以阻止其他人接近你。但要小心，奇卡很饿！
+Loc_Thumper/Thumper_Projector_Greeting3,Use that touch screen computer.,使用那台触摸屏电脑。
+Loc_Thumper/Thumper_LI_Fazerblast_N3C2,Use the Dart Gun to pop balloons!,用飞镖枪戳破气球！
+Loc_Thumper/Thumper_LI_ArtsAndCrafts_N1C2,Use the Dart Gun to shoot the objects you need. Sun will toss them to you!,用飞镖枪射击你需要的物品。太阳会把它们扔给你！
+Loc_Thumper/Thumper_LI_FizzyFaz_N3C2,Use the Double Time button if you need resources quickly. Be careful not to work the S.T.A.F.F. Bots too hard.,如果你需要快速获取资源，就使用双倍时间按钮。但要小心，不要让S.T.A.F.F.机器人干得太累。
+Loc_Thumper/Thumper_LI_FizzyFaz_N2C3,Use the Emergency Shut Down if things get out of hand.,如果事情失控了，就使用紧急关机按钮。
+Loc_Thumper/Thumper_LI_Fazerblast_N4C2,"Use the Fazerblaster on the light sensor targets, Balls on the larger targets, and Dart Gun on the Balloons.",用激光枪射击光敏目标，用球射击较大的目标，用飞镖枪射击气球。
+Loc_Thumper/Thumper_LI_Fazerblast_N1C1,Use the Fazerblaster to shoot light sensor targets.,用激光枪射击光敏目标。
+Loc_Thumper/Thumper_LI_Fazerblast_N2C1,Use the Fazerblaster to shoot light sensor targets. Throw Balls at the larger targets.,用激光枪射击光敏目标。用球扔向较大的目标。
+Loc_Thumper/Thumper_LI_Fazerblast_N5C1,Use the Flashlight so you can see in the dark!,用手电筒，这样你就能在黑暗中看清楚！
+Loc_Thumper/Thumper_Projector1_Text1,Use the Left Stick to move around the Pizza Place.,用左摇杆在披萨店里移动。
+Loc_Thumper/Thumper_LI_FizzyFaz_N4C2,Use the Purge Button to get rid of contaminated resources.,用清除按钮清除被污染的资源。
+Loc_Thumper/Thumper_LI_SalonMakeover_N3C3,Use the Roxy Talkie to calm Roxy down.,用罗克西对讲机安抚罗克西。
+Loc_Thumper/Thumper_LI_FizzyFaz_N1C2,Use the cameras to see if the S.T.A.F.F Bots are working.,用摄像头看看S.T.A.F.F.机器人是否在工作。
+Loc_Thumper/Thumper_LI_ColdStorage_N1C3,Use the diagnostic machine to complete repairs.,用诊断机器完成修理。
+Loc_Thumper/Thumper_LI_ArtsAndCrafts_N2C2,Use the flashlight if it gets too scary! Don’t forget to recharge it!,如果你觉得太恐怖了，就用手电筒！别忘了给它充电！
+Loc_Thumper/Thumper_LI_BonnieBowl_N1C3,Use the flashlight to keep Moon away.,用手电筒把月亮赶走。
+Loc_Thumper/Thumper_LI_ColdStorage_N1C2,"Use the heat gun to defrost Freddy, but don’t let him get too hot!",用热枪解冻弗雷迪，但不要让他太热！
+Loc_Thumper/Thumper_LI_BreakerRoom_N1C2,Use the megaphone on Funtime Freddy to keep him away.,用扩音器对准欢乐弗雷迪，让他离你远点。
+Loc_Thumper/Thumper_LI_BreakerRoom_N2C2,Use the megaphone on Yenndo to keep him away.,用扩音器对准耶恩多，让他离你远点。
+Loc_Thumper/Thumper_Projector1_Text3,Use the right stick to turn.,用右摇杆转向。
+Loc_Thumper/Thumper_LI_FirstAid_N1C1,Use the scanner gun to see what’s wrong with Helpy,用扫描枪看看帮帮有什么问题。
+Loc_Thumper/Thumper_GameMenus_VideoOptions,VIDEO OPTIONS,视频选项
+Loc_Thumper/Thumper_GameMenus_VoiceVolume,VOICE VOLUME,语音音量
+Loc_Thumper/Thumper_GameMenus_VROptions,VR OPTIONS,VR选项
+Loc_Thumper/Thumper_Prizes_VannyActionFigure,Vanny,范妮
+Loc_Thumper/Thumper_EndoWarehouse_Warning,WARNING,警告
+Loc_Thumper/Thumper_PauseMenu_Win,WIN!,赢了！
+Loc_Thumper/Thumper_BaB_WIN,WIN:,赢了：
+Loc_Thumper/Thumper_BonnieBowl_Wait,Wait!,等一下！
 Loc_Thumper/Thumper_Warning_LightsNoisesJumpscares,"Warning: This game contains loud noises, 
-flashing lights, and lots of jumpscares!",等一下！
-Loc_Thumper/Thumper_LI_FizzyFaz_N4C3,Watch out for Chica! Trash ingredients to lead her back to the garbage area.,"警告：这个游戏包含大声的噪音，
+flashing lights, and lots of jumpscares!","警告：这个游戏包含大声的噪音，
 闪烁的灯光，和很多跳杀！"
-Loc_Thumper/Thumper_LI_BonnieBowl_N1C2,Watch out for random challenges!,小心奇卡！用垃圾食材引诱她回到垃圾区。
-Loc_Thumper/Thumper_LI_DJMusicTime_N1C2,Watch the Visualizer so it’s easier to select the right beats. Hit Replay if you need to hear it again.,注意随机挑战！
-Loc_Thumper/Thumper_FoodPrep_WaveTime,Wave Time: ,观看可视化器，这样你就能更容易地选择正确的节拍。如果你需要再听一遍，就按重播按钮。
-Loc_Thumper/Thumper_EW_CardScreen_Wear,Wear,波次时间：
-Loc_Thumper/Thumper_FoodPrep_WelcomeTo,Welcome to,穿戴
-Loc_Thumper/Thumper_LI_PQIV_N1C3,What do I do?,欢迎来到
-Loc_Thumper/Thumper_PQ4_TelePickup,What does this do?,我该怎么做？
-Loc_Thumper/Thumper_PQ4_OMCText2,What is left that is hidden.,这是什么？
-Loc_Thumper/Thumper_PQ4_ItemPickup,What is this feeling...?,还有什么是隐藏的。
-Loc_Thumper/Thumper_LI_SalonMakeover_N2C2,"Whatever you do, don’t let Roxy get too angry. Pay attention to her!",这是什么感觉...？
-Loc_Thumper/Thumper_LI_PQIV_N1C1,What’s going on?,无论你做什么，都不要让罗克西太生气。注意她的情绪！
-Loc_Thumper/Thumper_Projector_Greeting5,Where would you like to start?,发生了什么？
-Loc_Thumper/Thumper_LevelDesc_FazerblastNight5,Where ya' goin'? Don't let a little fire stop the fun! Come on back!,你想从哪里开始？
-Loc_Thumper/Thumper_LevelDesc_FirstAidNight3,Who needs a medical degree when you can fix a skinned knee?,你要去哪里？别让一点火熄灭了乐趣！快回来！
-Loc_Thumper/Thumper_Projector_FFUpset2,Why are you ignoring the gift?,就为了治疗个擦伤的膝盖你还犯得上考个医学学位？
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_WWF,Workers Waiver Form,你为什么忽视这个礼物？
-Loc_Thumper/Thumper_FizzyFazz_Working,Working,工人豁免表格
-Loc_Thumper/Thumper_FoodPrep_ExtraLarge,XL,工作中
-Loc_Thumper/Thumper_Achievement_Name_14,YOU ARE WHAT YOU EAT,特大号
-Loc_Thumper/Thumper_Achievement_Name_32,YOU NEVER KNOW UNTIL YOU TRY,人如其食
-Loc_Thumper/Thumper_Achievement_Name_13,YOUR TIME TO SHINE,不试试你永远不知道
-Loc_Thumper/Thumper_Achievement_Name_4,YOU’RE HIRED,你的高光时刻
-Loc_Thumper/Thumper_Prizes_YenndoActionFigure,Yenndo,你被雇佣了
-Loc_Thumper/Thumper_VictoryDefeat_YouLost,You Lost,耶恩多
-Loc_Thumper/Thumper_VictoryDefeat_YouWin,You Win!,你输了
-Loc_Thumper/Thumper_PQ4_OMCText1,You are Won. And you remain.,你赢了！
-Loc_Thumper/Thumper_Achievement_Desc_14,You ate the glue. What is wrong with you?,你赢了，你可以留下来。
-Loc_Thumper/Thumper_LI_FoodPrepTheater_N1C2,You can COMBINE a Soda and a Snack in the Blendee machine to make a Blendee. Different combinations make a different Blendees!,你把胶水吃了。你有毛病吧！
-Loc_Thumper/Thumper_Prizes_Yougoteverything!,You got everything!,你可以在混合机里将苏打水和零食混合，制作出混合饮料。不同的组合会制作出不同的混合饮料！
-Loc_Thumper/Thumper_Projector_FFCollected1,You got them all!,你拿到了所有的东西！
-Loc_Thumper/Thumper_Projector_FFUpset1,You really don’t want to miss out!,你全部都拿到了！
+Loc_Thumper/Thumper_LI_FizzyFaz_N4C3,Watch out for Chica! Trash ingredients to lead her back to the garbage area.,小心奇卡！用垃圾食材引诱她回到垃圾区。
+Loc_Thumper/Thumper_LI_BonnieBowl_N1C2,Watch out for random challenges!,注意随机挑战！
+Loc_Thumper/Thumper_LI_DJMusicTime_N1C2,Watch the Visualizer so it’s easier to select the right beats. Hit Replay if you need to hear it again.,观看可视化器，这样你就能更容易地选择正确的节拍。如果你需要再听一遍，就按重播按钮。
+Loc_Thumper/Thumper_FoodPrep_WaveTime,Wave Time: ,波次时间：
+Loc_Thumper/Thumper_EW_CardScreen_Wear,Wear,穿戴
+Loc_Thumper/Thumper_FoodPrep_WelcomeTo,Welcome to,欢迎来到
+Loc_Thumper/Thumper_LI_PQIV_N1C3,What do I do?,我该怎么做？
+Loc_Thumper/Thumper_PQ4_TelePickup,What does this do?,这是什么？
+Loc_Thumper/Thumper_PQ4_OMCText2,What is left that is hidden.,还有什么是隐藏的。
+Loc_Thumper/Thumper_PQ4_ItemPickup,What is this feeling...?,这是什么感觉...？
+Loc_Thumper/Thumper_LI_SalonMakeover_N2C2,"Whatever you do, don’t let Roxy get too angry. Pay attention to her!",无论你做什么，都不要让罗克西太生气。注意她的情绪！
+Loc_Thumper/Thumper_LI_PQIV_N1C1,What’s going on?,发生了什么？
+Loc_Thumper/Thumper_Projector_Greeting5,Where would you like to start?,你想从哪里开始？
+Loc_Thumper/Thumper_LevelDesc_FazerblastNight5,Where ya' goin'? Don't let a little fire stop the fun! Come on back!,你要去哪里？别让一点火熄灭了乐趣！快回来！
+Loc_Thumper/Thumper_LevelDesc_FirstAidNight3,Who needs a medical degree when you can fix a skinned knee?,就为了治疗个擦伤的膝盖你还犯得上考个医学学位？
+Loc_Thumper/Thumper_Projector_FFUpset2,Why are you ignoring the gift?,你为什么忽视这个礼物？
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_WWF,Workers Waiver Form,工人豁免表格
+Loc_Thumper/Thumper_FizzyFazz_Working,Working,工作中
+Loc_Thumper/Thumper_FoodPrep_ExtraLarge,XL,特大号
+Loc_Thumper/Thumper_Achievement_Name_14,YOU ARE WHAT YOU EAT,人如其食
+Loc_Thumper/Thumper_Achievement_Name_32,YOU NEVER KNOW UNTIL YOU TRY,不试试你永远不知道
+Loc_Thumper/Thumper_Achievement_Name_13,YOUR TIME TO SHINE,你的高光时刻
+Loc_Thumper/Thumper_Achievement_Name_4,YOU’RE HIRED,你被雇佣了
+Loc_Thumper/Thumper_Prizes_YenndoActionFigure,Yenndo,耶恩多
+Loc_Thumper/Thumper_VictoryDefeat_YouLost,You Lost,你输了
+Loc_Thumper/Thumper_VictoryDefeat_YouWin,You Win!,你赢了！
+Loc_Thumper/Thumper_PQ4_OMCText1,You are Won. And you remain.,你赢了，你可以留下来。
+Loc_Thumper/Thumper_Achievement_Desc_14,You ate the glue. What is wrong with you?,你把胶水吃了。你有毛病吧！
+Loc_Thumper/Thumper_LI_FoodPrepTheater_N1C2,You can COMBINE a Soda and a Snack in the Blendee machine to make a Blendee. Different combinations make a different Blendees!,你可以在混合机里将苏打水和零食混合，制作出混合饮料。不同的组合会制作出不同的混合饮料！
+Loc_Thumper/Thumper_Prizes_Yougoteverything!,You got everything!,你拿到了所有的东西！
+Loc_Thumper/Thumper_Projector_FFCollected1,You got them all!,你全部都拿到了！
+Loc_Thumper/Thumper_Projector_FFUpset1,You really don’t want to miss out!,你真的不想错过这个！
 Loc_Thumper/Thumper_FirstAid_RoundFinish,"You've finished this round!
 Feed Helpy a candy to go into
-the next round!",你真的不想错过这个！
-Loc_Thumper/Thumper_LevelDesc_FizzyFazNight3,Your work is fulfilling and you are happy every day.,"你完成了这一轮！
+the next round!","你完成了这一轮！
 给帮帮喂一颗糖果，进入
 下一轮！"
-Loc_Thumper/nachos,nachos,你的工作很有成就感，你每天都很开心。
+Loc_Thumper/Thumper_LevelDesc_FizzyFazNight3,Your work is fulfilling and you are happy every day.,你的工作很有成就感，你每天都很开心。
+Loc_Thumper/nachos,nachos,玉米片
 Loc_Thumper/Thumper_FirstAid_InstructionMonitorText,"testing testing testing testing testing testingffffffffff ffffffffff fd vffvvfvfvfvfvfvfvffv  ff f  f f f f f
 f F
 F
@@ -1693,15 +1692,8 @@ F
 F
 F
 F
-F",玉米片
-Loc_Thumper/Thumper_Fazerblast_TargetSequenceFormat,{This} on {Name},测试 测试 测试 测试 测试 测试
-Loc_Thumper/Thumper_FirstAid_CompleteFormat,{task} complete!,{Name}上的(WIP){This}
-VictoryDefeatLevel/RetryButtonText,Retry,{task}完成！
-VictoryDefeatLevel/ReturnToHubButtonText,Return to HUB,重试
-,,返回菜单(WIP)
-,,
-,,
-,,
-,,
-,,
-,,
+F",测试 测试 测试 测试 测试 测试
+Loc_Thumper/Thumper_Fazerblast_TargetSequenceFormat,{This} on {Name},{Name}上的(WIP){This}
+Loc_Thumper/Thumper_FirstAid_CompleteFormat,{task} complete!,{task}完成！
+VictoryDefeatLevel/RetryButtonText,Retry,重试
+VictoryDefeatLevel/ReturnToHubButtonText,Return to HUB,返回菜单(WIP)
