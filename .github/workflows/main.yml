@@ -17,16 +17,16 @@ jobs:
       run: src\UnrealLocresImport.cmd
 
     - name: Remove existing Game.locres
-      run: Remove-Item -Path src\Thumper\Content\Localization\Game\fr\Game.locres -Force
+      run: Remove-Item -Path src\Thumper\Content\Localization\Game\en\Game.locres -Force
 
     - name: Move generated Game.locres
-      run: move Game.locres src\Thumper\Content\Localization\Game\fr\Game.locres
+      run: move Game.locres src\Thumper\Content\Localization\Game\en\Game.locres
 
     - name: Commit and push updated Game.locres
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add src\Thumper\Content\Localization\Game\fr\Game.locres
+        git add src\Thumper\Content\Localization\Game\en\Game.locres
         git commit -m "Update Game.locres"
         git push
 
