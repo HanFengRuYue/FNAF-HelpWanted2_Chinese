@@ -20,3 +20,5 @@
 ../../../Thumper/Content/UI/Font/Univia/Mostardesign_-_UniviaProRegular.ufont
 ../../../Thumper/Content/UI/Font/Univia/NotoSansHK-Regular.ufont
 ../../../Thumper/Content/UI/Font/Univia/NotoSansSC-Regular.ufont
+../../../Thumper/Content/UI/Font/Atarian/SF_Atarian_System_Font.uexp
+../../../Thumper/Content/UI/Font/Atarian/SF_Atarian_System_FontBold.uexp
