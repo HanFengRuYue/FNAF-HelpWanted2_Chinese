@@ -921,8 +921,13 @@ Loc_Thumper/Thumper_DJMMRuin_LevelTitle,DJ Music Time: Pro,DJ 音乐时间：专
 Loc_Thumper/Thumper_FoodPrep_MMNTJ,DJMM Techno-cooler,DJ音乐人 科技酷
 Loc_Thumper/Thumper_FoodPrep_MMNTJS,DJMM Techno-cooler Soda,DJ音乐人 科技酷苏打
 Loc_Thumper/Thumper_FoodPrep_SMMNTJ,DJMMTC Blendee,DJ音乐人科技酷 混合饮料
+<<<<<<< HEAD
 Loc_Thumper/Thumper_AC_DONE,DONE,完成
 Loc_Thumper/Thumper_LevelDesc_BalloraGallery,Dance! Welcome to Ballora's Party Room and Dance Studio.,跳舞！欢迎来到 芭蕾菈 的派对房间和舞蹈工作室。
+=======
+Loc_Thumper/Thumper_AC_DONE,DONE,完成(TestFont)
+Loc_Thumper/Thumper_LevelDesc_BalloraGallery,Dance! Welcome to Ballora's Party Room and Dance Studio.,跳舞！欢迎来到 Ballora 的派对房间和舞蹈工作室。
+>>>>>>> c6e1460714f9cf055ac71c4c3cee0f6047b06cf1
 Loc_Thumper/Thumper_Prizes_DartGun,Dart Gun,飞镖枪
 Loc_Thumper/Thumper_FizzyFazz_Destroyed,Destroyed,被摧毁
 Loc_Thumper/Thumper_Achievement_Desc_25,"Did you know, there are two mallets?",你知道吗，有两个木槌？
