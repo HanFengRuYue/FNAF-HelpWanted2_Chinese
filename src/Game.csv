@@ -1321,7 +1321,7 @@ Loc_Thumper/Thumper_PQ4_OMCText3,Now go to next room.,现在去下一个房间�
 Loc_Thumper/Thumper_GameMenus_Off,OFF,关
 Loc_Thumper/Thumper_Achievement_Name_5,OPEN YOUR EYES,睁开你的眼睛
 Loc_Thumper/Thumper_PauseMenu_Options,OPTIONS,选项
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_ORANGE,ORANGE,橙色
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_ORANGE,ORANGE,橙汁
 Loc_Thumper/Thumper_FizzyFazz_OrderReadout_DrinkName,ORDER: DRINK NAME,订单：饮料名称
 Loc_Thumper/Thumper_FizzyFazz_OOT,OUT OF TIME,时间到
 Loc_Thumper/Thumper_LevelTitle_RASisterLFuntime,Office: Funtime Gang,办公室：欢乐马戏团
@@ -1336,7 +1336,7 @@ Loc_Thumper/Thumper_Achievement_Desc_26,Only hit Helpy during Round 1 of Bonk a'
 Loc_Thumper/Thumper_EW_CardScreen_Open,Open,打开
 Loc_Thumper/Thumper_Projector_Greeting4,Open the files and pick a task.,打开文件，选择一个任务。
 Loc_Thumper/Thumper_Projector_FFUpset5,Open the gift. Don’t make me ask again.,打开礼物。不要让我再问一遍。
-Loc_Thumper/Thumper_FoodPrep_Orange,Orange,橙色
+Loc_Thumper/Thumper_FoodPrep_Orange,Orange,橙汁
 Loc_Thumper/Thumper_FoodPrep_OrderTime,Order Time:,订单时间：
 Loc_Thumper/Thumper_FoodPrep_OrderTime999,Order Time: 999,订单时间：999
 Loc_Thumper/Thumper_Achievement_Name_30,PICTURE DAY,照相日
@@ -1536,7 +1536,7 @@ Loc_Thumper/Thumper_General_StartGame,Start Game,开始游戏
 Loc_Thumper/Thumper_HUB_StartLevel,Start Level,开始关卡
 Loc_Thumper/Thumper_FirstAid_StartingFormat,Starting {task},开始 {task}
 Loc_Thumper/Thumper_FizzyFazz_BotStatus,Status,状态
-Loc_Thumper/Thumper_LI_BalloraGallery_N1C2,Stay away from Ballora and the Minireenas.,远离 芭蕾菈 和 迷你瑞纳。
+Loc_Thumper/Thumper_LI_BalloraGallery_N1C2,Stay away from Ballora and the Minireenas.,远离 芭萝菈 和 迷你瑞纳。
 Loc_Thumper/Thumper_Projector_Teleport4,Stay within the designated areas.,保持在指定的区域内。
 Loc_Thumper/Thumper_Prizes_SunActionFigure,Sun,太阳
 Loc_Thumper/Thumper_Prizes_GlamSunPlush,Sun Plush,太阳毛绒玩具
@@ -1702,4 +1702,4 @@ F","测试
 Loc_Thumper/Thumper_Fazerblast_TargetSequenceFormat,{This} on {Name},{Name}上的(WIP){This}
 Loc_Thumper/Thumper_FirstAid_CompleteFormat,{task} complete!,{task}完成！
 VictoryDefeatLevel/RetryButtonText,Retry,重试
-VictoryDefeatLevel/ReturnToHubButtonText,Return to HUB,返回菜单(WIP)
+VictoryDefeatLevel/ReturnToHubButtonText,Return to HUB,返回大厅
