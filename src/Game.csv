@@ -355,14 +355,14 @@ Loc_Subtitles/FIZZ_HW2_00011,(FIZZ BOT)\\\\You are back.,(汽水机器人)\\\\�
 Loc_Subtitles/FIZZ_HW2_00016,(FIZZ BOT)\\\\You are back.,(汽水机器人)\\\\你回来了。
 Loc_Subtitles/FIZZ_HW2_00018,(FIZZ BOT)\\\\You are going to have to play a bit of catch up.,(汽水机器人)\\\\你得赶一赶了。
 Loc_Subtitles/FIZZ_HW2_00001,(FIZZ BOT)\\\\You are here.,(汽水机器人)\\\\你在这里。
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00008,"(FUNTIME FREDDY)\\\\(distorted) Bon-Bon, let's not keep our friend wa-aiting!",(欢乐时光弗莱迪)\\\\(扭曲的声音)邦邦，别让我们的朋友等太久！
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00004,(FUNTIME FREDDY)\\\\(laughing) I know you're over there somewhere.,(欢乐时光弗莱迪)\\\\(笑声)我知道你在那边的某个地方。
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00007,(FUNTIME FREDDY)\\\\(singing) G-get ready for a surp-RISE!,(欢乐时光弗莱迪)\\\\(唱歌)准备好一个惊-喜吧！
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00002,(FUNTIME FREDDY)\\\\Bon-Bon say-say hi to our friends!,(欢乐时光弗莱迪)\\\\邦邦说-说你好，给我们的朋友们！
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00001,"(FUNTIME FREDDY)\\\\Bon-Bon, say hi to our friends!",(欢乐时光弗莱迪)\\\\邦邦，跟我们的朋友们打个招呼！
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00006,"(FUNTIME FREDDY)\\\\Hey Bon-Bon, go g-get 'em!",(欢乐时光弗莱迪)\\\\嘿，邦邦，去-去抓住他们！
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00005,(FUNTIME FREDDY)\\\\I see you over there in the dark! C-come on out!,(欢乐时光弗莱迪)\\\\我看见你在黑暗中！快-快出来吧！
-Loc_Subtitles/FUNTIMEFREDDY_HW2_00003,(FUNTIME FREDDY)\\\\I-I know you're over there so-o-omewhere.,(欢乐时光弗莱迪)\\\\我-我知道你在那边的某-某个地方。
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00008,"(FUNTIME FREDDY)\\\\(distorted) Bon-Bon, let's not keep our friend wa-aiting!",(欢乐时光弗雷迪)\\\\(扭曲的声音)邦邦，别让我们的朋友等太久！
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00004,(FUNTIME FREDDY)\\\\(laughing) I know you're over there somewhere.,(欢乐时光弗雷迪)\\\\(笑声)我知道你在那边的某个地方。
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00007,(FUNTIME FREDDY)\\\\(singing) G-get ready for a surp-RISE!,(欢乐时光弗雷迪)\\\\(唱歌)准备好一个惊-喜吧！
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00002,(FUNTIME FREDDY)\\\\Bon-Bon say-say hi to our friends!,(欢乐时光弗雷迪)\\\\邦邦说-说你好，给我们的朋友们！
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00001,"(FUNTIME FREDDY)\\\\Bon-Bon, say hi to our friends!",(欢乐时光弗雷迪)\\\\邦邦，跟我们的朋友们打个招呼！
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00006,"(FUNTIME FREDDY)\\\\Hey Bon-Bon, go g-get 'em!",(欢乐时光弗雷迪)\\\\嘿，邦邦，去-去抓住他们！
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00005,(FUNTIME FREDDY)\\\\I see you over there in the dark! C-come on out!,(欢乐时光弗雷迪)\\\\我看见你在黑暗中！快-快出来吧！
+Loc_Subtitles/FUNTIMEFREDDY_HW2_00003,(FUNTIME FREDDY)\\\\I-I know you're over there so-o-omewhere.,(欢乐时光弗雷迪)\\\\我-我知道你在那边的某-某个地方。
 Loc_Subtitles/BONNIE_HW2_00005,(GLAM BONNIE)\\\\Enjoy Bonnie Bowl’s cutting edge computer graphics.,(摇滚邦尼)\\\\欣赏邦尼保龄球馆的尖端计算机图形。
 Loc_Subtitles/BONNIE_HW2_00001,"(GLAM BONNIE)\\\\Hey, gang. Welcome to Bonnie Bowl.",(摇滚邦尼)\\\\嘿，伙计们。欢迎来到邦尼保龄球馆。
 Loc_Subtitles/BONNIE_HW2_00004,(GLAM BONNIE)\\\\Lucky you! You have been upgraded to the “Bonnie’s Wild!” premier game package.,(摇滚邦尼)\\\\真幸运！你已经升级到了“邦尼的狂野！”高级游戏套餐。
@@ -860,9 +860,9 @@ Loc_Thumper/Thumper_General_Cancel,Cancel,取消
 Loc_Thumper/Thumper_Prizes_Candy1,Candy 1,糖果 1
 Loc_Thumper/Thumper_Prizes_Candy2,Candy 2,糖果 2
 Loc_Thumper/Thumper_FizzyFazz_CannisterManager,Cannister Manager,罐子管理器
-Loc_Thumper/Thumper_LogRide_LevelTitle,Capt. Foxy's Log Ride,福克斯船长的日志之旅
+Loc_Thumper/Thumper_LogRide_LevelTitle,Capt. Foxy's Log Ride,霍斯船长的圆木漂流
 Loc_Thumper/Thumper_LogRide_Captain,Captain,船长
-Loc_Thumper/Thumper_Prizes_CaptainFoxyActionFigure,Captain Foxy,福克斯船长
+Loc_Thumper/Thumper_Prizes_CaptainFoxyActionFigure,Captain Foxy,霍斯船长
 Loc_Thumper/Thumper_Prizes_CarnyActionFigure,Carnie,马戏团员
 Loc_Thumper/Thumper_Carousel_LevelTitle,Carousel,旋转木马
 Loc_Thumper/Thumper_Prizes_CarouselPoster,Carousel Poster,旋转木马海报
@@ -1004,7 +1004,7 @@ Loc_Thumper/Thumper_FazerblastNIght2_LevelTitle,Fazerblast: Western,Fazer激光�
 Loc_Thumper/Thumper_Prizes_FazerBlaster,Fazerblaster,Fazer激光枪
 Loc_Thumper/Thumper_FoodPrep_Fazersauce,Fazersauce,Fazer酱汁
 Loc_Thumper/Thumper_Achievement_Desc_6,Find an alternate Log Ride flume. ,找到另一个原木滑梯水道。
-Loc_Thumper/Thumper_LI_ColdStorage_N1C1,Find and recover Jimmy’s birthday cake from Freddy’s chest cavity.,从弗莱迪的胸腔中找到并取回吉米的生日蛋糕。
+Loc_Thumper/Thumper_LI_ColdStorage_N1C1,Find and recover Jimmy’s birthday cake from Freddy’s chest cavity.,从弗雷迪的胸腔中找到并取回吉米的生日蛋糕。
 Loc_Thumper/Thumper_FANight2_LevelTitle,First Aid: Lefty,急救：小左
 Loc_Thumper/Thumper_FANight1_LevelTitle,First Aid: Pig Patch,急救：猪补丁
 Loc_Thumper/Thumper_FANight3_LevelTitle,First Aid: Scrap Baby,急救：废铁宝贝
@@ -1020,7 +1020,7 @@ Loc_Thumper/Thumper_FoodPrep_Flash999,Flash: 999,闪光：999
 Loc_Thumper/Thumper_Activity_Name_3,Food Prep,食物准备
 Loc_Thumper/Thumper_BonnieBowl_FrameNumber,Frame : ,框架：
 Loc_Thumper/Thumper_BaB_FrameTotal,Frame Total: ,框架总数：
-Loc_Thumper/Thumper_FoodPrep_Potato,Freddy’s Faztato,弗莱迪Faztato
+Loc_Thumper/Thumper_FoodPrep_Potato,Freddy’s Faztato,弗雷迪Faztato
 Loc_Thumper/Thumper_FoodPrep_Fries,Fries,薯条
 Loc_Thumper/Thumper_Prizes_FruitPunchClown,Fruit Punch Clown,果汁小丑
 Loc_Thumper/Thumper_LevelDesc_FazerblastNight3,Fun with darts! Pop balloons in the FNAF 1 themed shooting gallery!,玩飞镖！在 FNAF 1 主题的射击场里戳破气球！
@@ -1293,7 +1293,7 @@ Loc_Thumper/Thumper_FizzyFazz_Missing,Missing,失踪
 Loc_Thumper/Thumper_Prizes_MixedNuts,Mixed Nuts,混合坚果
 Loc_Thumper/Thumper_Prizes_GlamMontyActionFigure,Monty,蒙蒂
 Loc_Thumper/humper_FoodPrep_MontyMixInstructions,"Monty Mystery Mix - 1 Sugar, 1 Caffeine, 1 Acid",蒙蒂神秘混合 - 1 糖，1 咖啡因，1 酸
-Loc_Thumper/Thumper_FoodPrep_SombreroPizza,Monty's Fiesta Pizza,蒙蒂的节日披萨
+Loc_Thumper/Thumper_FoodPrep_SombreroPizza,Monty's Fiesta Pizza,蒙蒂节日披萨
 Loc_Thumper/Thumper_Prizes_MoonActionFigure,Moon,月亮
 Loc_Thumper/Thumper_Prizes_GlamMoonPlush,Moon Plush,月亮毛绒玩具
 Loc_Thumper/Thumper_Prizes_MoondropPoster,Moondrop Poster,月落 海报
@@ -1359,7 +1359,7 @@ Loc_Thumper/Thumper_FoodPrep_Pizza,Pizza,披萨
 Loc_Thumper/Thumper_FPPizza_LevelTitle,Pizza Pizza Pizza,披萨披萨披萨
 Loc_Thumper/Thumper_FoodPrep_PizzaRoller,Pizza Roller,披萨滚刀
 Loc_Thumper/Thumper_FoodPrep_PizzaSlice,Pizza Slice,披萨片
-Loc_Thumper/Thumper_FoodPrep_Pizzarito,Pizzarito,Pizzarito(WIP)
+Loc_Thumper/Thumper_FoodPrep_Pizzarito,Pizzarito,披萨卷
 Loc_Thumper/Thumper_LevelDesc_SalonMakeoverStaffBot,Places please! Prepare S.T.A.F.F. Bots for showtime in the green room.,请就位！在化妆间为 S.T.A.F.F. 机器人准备表演。
 Loc_Thumper/Thumper_EW_CardScreen_Play,Play,Faz
 Loc_Thumper/Thumper_Activity_Desc_2,Play games in the Fazcade! Fun! Fun! Fun! ,在 Faz游戏厅 里玩游戏！好玩！好玩！好玩！
@@ -1429,7 +1429,7 @@ Loc_Thumper/Thumper_BaB_RoundFinished,Round Finished,回合结束
 Loc_Thumper/Thumper_BaB_RoundLose,Round Lose!,回合失败！
 Loc_Thumper/Thumper_BaB_RoundWin,Round Win!,回合胜利！
 Loc_Thumper/Thumper_Prizes_GlamRoxyActionFigure,Roxy,罗克西
-Loc_Thumper/Thumper_FoodPrep_Nachos,Roxy’s Rockin’ Nachos,罗克西的摇滚玉米片
+Loc_Thumper/Thumper_FoodPrep_Nachos,Roxy’s Rockin’ Nachos,罗克西摇滚玉米片
 Loc_Thumper/Thumper_Prizes_RuinedDJMusicManActionFigure,Ruined DJ Music Man,毁坏的DJ音乐人
 Loc_Thumper/Thumper_FoodPrep_TheatreEndGame,Rush Complete!,高峰完成！
 Loc_Thumper/Thumper_FoodPrep_TheatreStartGame,Rush Incoming!,高峰到来！
@@ -1452,7 +1452,7 @@ DOWN","关
 闭"
 Loc_Thumper/Thumper_GameMenus_Small,SMALL,小
 Loc_Thumper/Thumper_Achievement_Name_26,SNAP,咔嚓
-Loc_Thumper/Thumper_FizzyFazz_OrderReadout_SODARONI,SODARONI,索达罗尼
+Loc_Thumper/Thumper_FizzyFazz_OrderReadout_SODARONI,SODARONI,苏打罗尼
 Loc_Thumper/Thumper_FizzyFazz_OrderReadout_SOURLIME,SOUR LIME,酸柠檬
 Loc_Thumper/Thumper_Language_Spanish_Latin_America,SPANISH (LATIN AMERICA),西班牙语（拉丁美洲）
 Loc_Thumper/Thumper_Language_Spanish_Spain,SPANISH (SPAIN),西班牙语（西班牙）
@@ -1518,11 +1518,11 @@ Loc_Thumper/Thumper_Achievement_Desc_28,Smash 8 light bulbs.,砸碎 8 个灯泡�
 Loc_Thumper/Thumper_GameMenus_Smooth,Smooth,平滑
 Loc_Thumper/Thumper_GameMenus_Snap,Snap,咔嚓
 Loc_Thumper/Thumper_Prizes_Soda,Soda,苏打水
-Loc_Thumper/Thumper_FoodPrep_Sodaroni,Sodaroni,索达罗尼
-Loc_Thumper/Thumper_FoodPrep_SodaroniInstructions,Sodaroni - 2 Salt & 1 Protein,索达罗尼 - 2 盐 & 1 蛋白质
-Loc_Thumper/Thumper_FoodPrep_SlushySodaroni,Sodaroni Blendee,索达罗尼混合饮料
-Loc_Thumper/Thumper_FoodPrep_SodaroniSlushie,Sodaroni Slushie,索达罗尼冰沙
-Loc_Thumper/Thumper_FoodPrep_SodaroniSoda,Sodaroni Soda,索达罗尼苏打水
+Loc_Thumper/Thumper_FoodPrep_Sodaroni,Sodaroni,苏打罗尼
+Loc_Thumper/Thumper_FoodPrep_SodaroniInstructions,Sodaroni - 2 Salt & 1 Protein,苏打罗尼 - 2 盐 & 1 蛋白质
+Loc_Thumper/Thumper_FoodPrep_SlushySodaroni,Sodaroni Blendee,苏打罗尼混合饮料
+Loc_Thumper/Thumper_FoodPrep_SodaroniSlushie,Sodaroni Slushie,苏打罗尼冰沙
+Loc_Thumper/Thumper_FoodPrep_SodaroniSoda,Sodaroni Soda,苏打罗尼苏打水
 Loc_Thumper/Thumper_FirstAid_ChemicalEyeText,"Some chemicals are in Helpy's eyes!
 Use the {PLACEHOLDER} Cleanser on both
 eyes to clean them out.","帮帮的眼睛里有一些化学物质！
@@ -1544,7 +1544,7 @@ Loc_Thumper/Thumper_Prizes_SundropPoster,Sundrop Poster,日落 海报
 Loc_Thumper/Thumper_LI_SisterLocation_N1C1,Survive the night. Watch the cameras to check for danger.,在夜晚生存。观看摄像头，检查危险。
 Loc_Thumper/Thumper_EW_CardScreen_Swim,Swim,游泳
 Loc_Thumper/Thumper_Achievement_Desc_2,System threats found. Repair complete,发现系统威胁。修复完成。
-Loc_Thumper/Thumper_Achievement_Name_29,TAKING CANDY FROM A BABY,从婴儿那里拿糖果
+Loc_Thumper/Thumper_Achievement_Name_29,TAKING CANDY FROM A BABY,从宝贝那里拿糖果
 Loc_Thumper/Thumper_FirstAid_TempHigh,TEMP: HIGH,温度：高
 Loc_Thumper/Thumper_GameMenus_Textures,TEXTURES,纹理
 Loc_Thumper/Thumper_Achievement_Name_33,THEY HAD IT COMING,他们活该
