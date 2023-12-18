@@ -1018,8 +1018,8 @@ Loc_Thumper/Thumper_LevelTitle_SSFizzyFazNight5,Fizzy Faz Night 5,Fizzy Faz 夜�
 Loc_Thumper/Thumper_LevelDesc_FizzyFazNight2,Fizzy Faz fun! Meet production quotas and protect the bottom line. ,Fizzy Faz 乐趣！达到生产指标并保护底线。
 Loc_Thumper/Thumper_FoodPrep_Flash999,Flash: 999,闪光：999
 Loc_Thumper/Thumper_Activity_Name_3,Food Prep,食物准备
-Loc_Thumper/Thumper_BonnieBowl_FrameNumber,Frame : ,框架：
-Loc_Thumper/Thumper_BaB_FrameTotal,Frame Total: ,框架总数：
+Loc_Thumper/Thumper_BonnieBowl_FrameNumber,Frame : ,轮数：
+Loc_Thumper/Thumper_BaB_FrameTotal,Frame Total: ,总分：
 Loc_Thumper/Thumper_FoodPrep_Potato,Freddy’s Faztato,弗雷迪Faztato
 Loc_Thumper/Thumper_FoodPrep_Fries,Fries,薯条
 Loc_Thumper/Thumper_Prizes_FruitPunchClown,Fruit Punch Clown,果汁小丑
@@ -1031,8 +1031,8 @@ Loc_Thumper/Thumper_GameMenus_Gamma,GAMMA,伽马
 Loc_Thumper/Thumper_Language_German,GERMAN,德语
 Loc_Thumper/Thumper_Achievement_Name_12,GGY,GGY
 Loc_Thumper/Thumper_GameMenus_GlobalQuality,GLOBAL QUALITY,全局质量
-Loc_Thumper/Thumper_General_GO,GO,去
-Loc_Thumper/Thumper_BaB_Go,GO!,去吧！
+Loc_Thumper/Thumper_General_GO,GO,开始
+Loc_Thumper/Thumper_BaB_Go,GO!,开始！
 Loc_Thumper/Thumper_Achievement_Name_27,GOBBLE GOBBLE,咕噜咕噜
 Loc_Thumper/Thumper_Menu_Grab,GRAB,抓住
 Loc_Thumper/Thumper_FizzyFazz_OrderReadout_GRAPE,GRAPE,葡萄
@@ -1375,7 +1375,7 @@ Sticks","冰
 棍"
 Loc_Thumper/Thumper_Prizes_Posters,Posters,海报
 Loc_Thumper/Thumper_LevelDesc_FazerblastNight2,Pow! Pow! Throw balls in the Fazerblast Western shooting gallery!,砰！砰！在 Fazer激光枪 西部射击场里扔球！
-Loc_Thumper/Thumper_SisterLocation_Power,Power :,电力：
+Loc_Thumper/Thumper_SisterLocation_Power,Power :,电量：
 Loc_Thumper/Thumper_EW_CardScreen_Present,Present,礼物
 Loc_Thumper/Thumper_PQ4_PressAnyButton,Press Any Button,按任意键
 Loc_Thumper/Thumper_Splash_PABTA,Press Any Button to Agree,按任意键同意
@@ -1601,7 +1601,7 @@ Loc_Thumper/Thumper_Prizes_TrashandtheGang,Trash and the Gang,垃圾和一帮小
 Loc_Thumper/Thumper_Controls_Turn,Turn,转身
 Loc_Thumper/Thumper_LI_FoodPrepPizza_N1C2,Turn completed Pizzas into world famous Pizzaritos? using the Pizza Roller.,用披萨卷机将做好的披萨卷成世界闻名的披萨卷吗？
 Loc_Thumper/Thumper_Menu_Use,USE,使用
-Loc_Thumper/Thumper_SisterLocation_Usage,Usage :,用法：
+Loc_Thumper/Thumper_SisterLocation_Usage,Usage :,耗电量：
 Loc_Thumper/Thumper_Controls_Use,Use Held Object,使用手持物品
 Loc_Thumper/Thumper_Controls_UseGrabAlt,"Use Held Object
 (Grab Alternate)","使用手持物品
@@ -1624,7 +1624,7 @@ Loc_Thumper/Thumper_LI_ColdStorage_N1C3,Use the diagnostic machine to complete r
 Loc_Thumper/Thumper_LI_ArtsAndCrafts_N2C2,Use the flashlight if it gets too scary! Don’t forget to recharge it!,如果你觉得太恐怖了，就用手电筒！别忘了给它充电！
 Loc_Thumper/Thumper_LI_BonnieBowl_N1C3,Use the flashlight to keep Moon away.,用手电筒把月亮赶走。
 Loc_Thumper/Thumper_LI_ColdStorage_N1C2,"Use the heat gun to defrost Freddy, but don’t let him get too hot!",用热枪解冻弗雷迪，但不要让他太热！
-Loc_Thumper/Thumper_LI_BreakerRoom_N1C2,Use the megaphone on Funtime Freddy to keep him away.,用扩音器对准欢乐弗雷迪，让他离你远点。
+Loc_Thumper/Thumper_LI_BreakerRoom_N1C2,Use the megaphone on Funtime Freddy to keep him away.,用扩音器对准欢乐时光弗雷迪，让他离你远点。
 Loc_Thumper/Thumper_LI_BreakerRoom_N2C2,Use the megaphone on Yenndo to keep him away.,用扩音器对准耶恩多，让他离你远点。
 Loc_Thumper/Thumper_Projector1_Text3,Use the right stick to turn.,用右摇杆转向。
 Loc_Thumper/Thumper_LI_FirstAid_N1C1,Use the scanner gun to see what’s wrong with Helpy,用扫描枪看看帮帮有什么问题。
