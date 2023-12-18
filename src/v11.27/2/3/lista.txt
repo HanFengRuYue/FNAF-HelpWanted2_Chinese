@@ -1,4 +1,6 @@
 ../../../Thumper/Content/Localization/Game/en/Game.locres
+../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp
+../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset
 ../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont
 ../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont
 ../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont
