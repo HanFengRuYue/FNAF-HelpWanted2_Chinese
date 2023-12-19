@@ -5,13 +5,15 @@
 ### 本汉化补丁完全开源免费！
 ### 如果在使用该汉化补丁是有发现翻译错误或者遗漏，请尽快提出[issues](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/issues)或者加入[QQ群](https://qm.qq.com/q/R8b5TvsYM4)进行反馈！
 ## 如何下载补丁
-### 1、进入本项目的Actions工作流：[Actions](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/actions)
+### 方法一：[点击下载](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/releases/download/v1.0/Thumper-WindowsNoEditor_p.zip)
+### 方法二：
+#### 1、进入本项目的Actions工作流：[Actions](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/actions)
 ![Readme1](ReadmeImage/Readme1.png)
-### 2、选择第一个最新的提交：
+#### 2、选择第一个最新的提交：
 ![Readme2](ReadmeImage/Readme2.png)
-### 3、进入后找到最下面Artifacts里的Thumper-WindowsNoEditor_p：
+#### 3、进入后找到最下面Artifacts里的Thumper-WindowsNoEditor_p：
 ![Readme3](ReadmeImage/Readme3.png)
-### 4、等待下载完成。
+#### 4、等待下载完成。
 ## 如何安装补丁
 ### 1、打开游戏目录：
 ![Readme4](ReadmeImage/Readme4.png)
