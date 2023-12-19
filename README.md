@@ -7,7 +7,7 @@
 ## 如何下载补丁
 ### 1、进入本项目的Actions工作流：[Actions](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/actions)
 ![Readme1](ReadmeImage/Readme1.png)
-### 2、选择选择第一个最新的提交：
+### 2、选择第一个最新的提交：
 ![Readme2](ReadmeImage/Readme2.png)
 ### 3、进入后找到最下面Artifacts里的Thumper-WindowsNoEditor_p：
 ![Readme3](ReadmeImage/Readme3.png)
