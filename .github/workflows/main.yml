@@ -2,8 +2,8 @@ name: Generate PAK
 
 on:
   push:
-    branches:
-      - main
+    paths:
+      - 'src/**'
 
 jobs:
   build:

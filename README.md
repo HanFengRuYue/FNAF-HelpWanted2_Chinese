@@ -15,7 +15,7 @@
 ## 如何安装补丁
 ### 1、打开游戏目录：
 ![Readme4](ReadmeImage/Readme4.png)
-### 2、以此打开文件夹Thumper\Content\Paks：
+### 2、依次打开文件夹Thumper\Content\Paks：
 ![Readme5](ReadmeImage/Readme5.png)
 ### 3、把下载的Thumper-WindowsNoEditor_p.zip解压到当前文件夹：
 ![Readme6](ReadmeImage/Readme6.png)
