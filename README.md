@@ -5,7 +5,7 @@
 ### 本汉化补丁完全开源免费！
 ### 如果在使用该汉化补丁是有发现翻译错误或者遗漏，请尽快提出[issues](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/issues)或者加入[QQ群](https://qm.qq.com/q/R8b5TvsYM4)进行反馈！
 ## 如何下载补丁
-### 方法一：[点击下载Releases版](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/releases/download/v1.0/Thumper-WindowsNoEditor_p.zip)
+### 方法一：[点击下载Releases版](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/releases/download/v2/Thumper-WindowsNoEditor_p.zip)
 ### 方法二：
 #### 1、登录你的Github账号
 #### 2、进入本项目的Actions工作流：[Actions](https://github.com/HanFengRuYue/FNAF-HelpWanted2_Chinese/actions)
