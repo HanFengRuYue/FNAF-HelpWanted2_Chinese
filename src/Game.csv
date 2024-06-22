@@ -1,4 +1,4 @@
-﻿key,source,target
+key,source,target
 /D2C9A5974DBA697BF894399DE7A353F8,--,
 /9AE04E154E75EC0D4DCF94860AE6D136,.,
 /F57BDD574BE93C77992986BA9F3B3DE2,/,
@@ -1355,7 +1355,7 @@ Loc_Thumper/Thumper_FoodPrep_LadleReturn,Ladle Return,勺子回收
 Loc_Thumper/Thumper_LevelDesc_FirstAidNight1,Learn common medical procedures from the safety of a simulated Pizza Place training booth.,在模拟的披萨店训练间里，学习常见的医疗程序。
 Loc_Thumper/Thumper_LevelDesc_DJMusicTimeRuin,Learn pro techniques with DJ Music Man in this final session.,在最后一节课中，跟DJ音乐人学习专业的技巧。
 Loc_Thumper/Thumper_Activity_Desc_3,Learn the culinary art of concessions!,学习小吃的烹饪艺术!
-Loc_Thumper/Thumper_Flat_Hint_Left,Left,小左
+Loc_Thumper/Thumper_Flat_Hint_Left,Left,
 Loc_Thumper/Thumper_Prizes_LeftyActionFigure,Lefty,小左
 Loc_Thumper/Thumper_Flat_FirstAid_LeftyBottle,"Lefty's 
 rabid animal
