@@ -37,7 +37,7 @@ jobs:
         src\pack-v11-27.cmd
 
     - name: Upload Thumper-WindowsNoEditor_p.pak
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: Thumper-WindowsNoEditor_p
         path: src\Thumper-WindowsNoEditor_p.pak
